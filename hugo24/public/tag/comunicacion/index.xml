@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comunicación | Diego Souto</title>
+    <link>http://localhost:1313/tag/comunicacion/</link>
+      <atom:link href="http://localhost:1313/tag/comunicacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Comunicación</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Comunicación</title>
+      <link>http://localhost:1313/tag/comunicacion/</link>
+    </image>
+    
+    <item>
+      <title>Presentaciones eficaces 5ª edición</title>
+      <link>http://localhost:1313/publication/201511_uc_presentaciones/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201511_uc_presentaciones/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad de Cantabria (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2015-11&lt;/li&gt;
+&lt;li&gt;Duración: 25h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comunicación y liderazgo</title>
+      <link>http://localhost:1313/publication/201309_fut_comliderazgo/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201309_fut_comliderazgo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Plan Future&lt;/li&gt;
+&lt;li&gt;Fecha: 2013-09&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

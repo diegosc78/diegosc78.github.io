@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finanzas | Diego Souto</title>
+    <link>http://localhost:1313/tag/finanzas/</link>
+      <atom:link href="http://localhost:1313/tag/finanzas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finanzas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Finanzas</title>
+      <link>http://localhost:1313/tag/finanzas/</link>
+    </image>
+    
+    <item>
+      <title>Líderes del futuro</title>
+      <link>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: ThePowerMBA&lt;/li&gt;
+&lt;li&gt;Fecha: 2025-10&lt;/li&gt;
+&lt;li&gt;Duración: 91h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading and managing people&lt;/li&gt;
+&lt;li&gt;Leading organizations&lt;/li&gt;
+&lt;li&gt;Innovation and agile mindset&lt;/li&gt;
+&lt;li&gt;Business model innovation&lt;/li&gt;
+&lt;li&gt;Business and marketing strategies&lt;/li&gt;
+&lt;li&gt;Power selling&lt;/li&gt;
+&lt;li&gt;Finance and accounting&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

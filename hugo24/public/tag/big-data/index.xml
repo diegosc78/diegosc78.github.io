@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data | Diego Souto</title>
+    <link>http://localhost:1313/tag/big-data/</link>
+      <atom:link href="http://localhost:1313/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Big Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Big Data</title>
+      <link>http://localhost:1313/tag/big-data/</link>
+    </image>
+    
+    <item>
+      <title>Stratio Augmented Data Fabric Basics Certification</title>
+      <link>http://localhost:1313/publication/202311_stratio_basics/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202311_stratio_basics/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Stratio&lt;/li&gt;
+&lt;li&gt;Fecha: 2023-11&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción general a la plataforma Stratio OBJ-BAS-1&lt;/li&gt;
+&lt;li&gt;Introducción Augmented Data Governance OBJ-2-GOV&lt;/li&gt;
+&lt;li&gt;Introducción Entorno Analítico Rocket OBJ-3-ROCKET&lt;/li&gt;
+&lt;li&gt;Examen certificación: Stratio Augmented Data Fabric Basics (13.2)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data y Transformación Digital</title>
+      <link>http://localhost:1313/publication/202207_formadoresit_bigdata/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202207_formadoresit_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Formadores IT&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-06&lt;/li&gt;
+&lt;li&gt;Duración: 40h&lt;/li&gt;
+&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;De los datos a las decisiones estratégicas. El mundo del dato&lt;/li&gt;
+&lt;li&gt;Data Management&lt;/li&gt;
+&lt;li&gt;Sistemas de información: Business Intelligence. ¿Por qué aparece Big Data? ¿Qué significa?&lt;/li&gt;
+&lt;li&gt;Arquitecturas Big Data&lt;/li&gt;
+&lt;li&gt;Visualización y toma de decisiones&lt;/li&gt;
+&lt;li&gt;Big Data &amp;amp; Analytics: Disciplinas científicas&lt;/li&gt;
+&lt;li&gt;Big Data &amp;amp; Analytics: Ámbitos de aplicación&lt;/li&gt;
+&lt;li&gt;Transformación Digital e IoT&lt;/li&gt;
+&lt;li&gt;Liderazgo y Gestión de proyectos de dato&lt;/li&gt;
+&lt;li&gt;Protección de datos&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data. Introducción a Spark</title>
+      <link>http://localhost:1313/publication/201711_ces_bigdata/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201711_ces_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Supercomputación de Galicia (CESGA)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-11&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big data para una ciudad inteligente</title>
+      <link>http://localhost:1313/publication/201705_upm_bigdatasmartcity/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201705_upm_bigdatasmartcity/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Politécnica de Madrid (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-05&lt;/li&gt;
+&lt;li&gt;Duración: 48h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción al tratamiento de datos con R y RStudio</title>
+      <link>http://localhost:1313/publication/201605_uib_rstudio/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201605_uib_rstudio/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universitat de les Illes Balears (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-10&lt;/li&gt;
+&lt;li&gt;Duración: 24h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data, el valor añadido de los datos en su negocio</title>
+      <link>http://localhost:1313/publication/201605_ucm_bigdata/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201605_ucm_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Católica de Murcia (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-05&lt;/li&gt;
+&lt;li&gt;Duración: 42h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a Big Data</title>
+      <link>http://localhost:1313/publication/201212_cntg_introbigdata/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201212_cntg_introbigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2012-12&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

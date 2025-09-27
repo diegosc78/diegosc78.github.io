@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | Diego Souto</title>
+    <link>http://localhost:1313/tag/iot/</link>
+      <atom:link href="http://localhost:1313/tag/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>IoT</title>
+      <link>http://localhost:1313/tag/iot/</link>
+    </image>
+    
+    <item>
+      <title>Implantación, soporte y mantenimiento plataforma IoT y SOA</title>
+      <link>http://localhost:1313/project/2020_wso2/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2020_wso2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Implantación y posterior soporte-mantenimiento de una plataforma IoT y SOA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en soporte-mantenimiento&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; empresa sector industrial&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Kubernetes, WSO2 Enterprise Integrator, WSO2 Identity Server, WSO2 Stream Processor, WSO2 API Manager, RabbitMQ, MongoDB, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; monitorización industrial&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lugo Smart</title>
+      <link>http://localhost:1313/project/2018_smlug/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2018_smlug/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo de la iniciativa Lugo Smart City&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto (varios componentes)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en mantenimiento&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; administración local&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema de administración electrónica, incluyendo licitación electrónica&lt;/li&gt;
+&lt;li&gt;GIS&lt;/li&gt;
+&lt;li&gt;Nuevos servicios para la tarjeta ciudadana&lt;/li&gt;
+&lt;li&gt;Parking inteligente&lt;/li&gt;
+&lt;li&gt;Smart waste&lt;/li&gt;
+&lt;li&gt;Eficiencia energética alumbrado, edificios públicos y telemedida contadores de agua&lt;/li&gt;
+&lt;li&gt;Consultoría plataforma smart&lt;/li&gt;
+&lt;li&gt;Infraestructura de servidores y sistemas base&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Python, PHP, Drupal, GeoServer, PC/SC, OTEA,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gestión de expedientes, Gobierno abierto, Smart city&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oportunidades de negocio para internet de las cosas</title>
+      <link>http://localhost:1313/publication/201802_utc_iot/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201802_utc_iot/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Tecnológica de Chile - INACAP (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2018-02&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>depoGAP</title>
+      <link>http://localhost:1313/project/2015_depogap/</link>
+      <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2015_depogap/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo e implantación de una plataforma de gestión de activos provinciales&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto (plataforma, cmi, portal)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; finalizado&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; administración provincial&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Plataforma software de gestión de activos&lt;/li&gt;
+&lt;li&gt;Inventario georrefenciado de activos (más de 2 millones en 60 ayuntamientos)&lt;/li&gt;
+&lt;li&gt;Cuadro de mando integral&lt;/li&gt;
+&lt;li&gt;Portal web y app móvil al ciudadano&lt;/li&gt;
+&lt;li&gt;Pilotos de eficiencia energética: en instalaciones deportivas, en edificios públicos y en hogares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Java, FAMA, HTML5-CSS3, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Inventario georreferenciado de bienes, Smart city&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coruña Smart City</title>
+      <link>http://localhost:1313/project/2013_csc/</link>
+      <pubDate>Fri, 06 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2013_csc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo e implantación de una plataforma Smart City&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto (plataforma)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; finalizado&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; administración local&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Plataforma de interoperabilidad&lt;/li&gt;
+&lt;li&gt;Sistema de interconexión sensórica&lt;/li&gt;
+&lt;li&gt;Red troncal y gateway IoT&lt;/li&gt;
+&lt;li&gt;GIS&lt;/li&gt;
+&lt;li&gt;Visualización avanzada&lt;/li&gt;
+&lt;li&gt;Business Intelligence&lt;/li&gt;
+&lt;li&gt;Portal smart&lt;/li&gt;
+&lt;li&gt;Open Data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Java, Spring, Hibernate, HTML5-CSS3, bootstrap, MQTT, Oracle Service Bus, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Smart city&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

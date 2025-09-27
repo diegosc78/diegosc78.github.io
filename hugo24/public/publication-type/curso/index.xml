@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curso | Diego Souto</title>
+    <link>http://localhost:1313/publication-type/curso/</link>
+      <atom:link href="http://localhost:1313/publication-type/curso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curso</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Curso</title>
+      <link>http://localhost:1313/publication-type/curso/</link>
+    </image>
+    
+    <item>
+      <title>Análisis y visualización de datos con Excel y PowerBI</title>
+      <link>http://localhost:1313/publication/202403_bilib_powerbi/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202403_bilib_powerbi/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Desarrollo de Competencias Digitales de Castilla-La Mancha&lt;/li&gt;
+&lt;li&gt;Fecha: 2024-03&lt;/li&gt;
+&lt;li&gt;Duración: 80h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción a la inteligencia de negocio y herramientas&lt;/li&gt;
+&lt;li&gt;ETL en Excel - Power Query y PowerBI&lt;/li&gt;
+&lt;li&gt;Diseño del modelo de datos&lt;/li&gt;
+&lt;li&gt;Transformación de datos en Power Query y Power BI&lt;/li&gt;
+&lt;li&gt;Visualizaciones de alto impacto&lt;/li&gt;
+&lt;li&gt;Potenciar los informes con DAX&lt;/li&gt;
+&lt;li&gt;Integración de Excel y PowerBI&lt;/li&gt;
+&lt;li&gt;Compartir PowerBI con los usuarios&lt;/li&gt;
+&lt;li&gt;El servicio de PowerBI en la nube&lt;/li&gt;
+&lt;li&gt;Business Case: Dashboard para monitorizar KPIs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

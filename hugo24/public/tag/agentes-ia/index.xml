@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agentes IA | Diego Souto</title>
+    <link>http://localhost:1313/tag/agentes-ia/</link>
+      <atom:link href="http://localhost:1313/tag/agentes-ia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agentes IA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Agentes IA</title>
+      <link>http://localhost:1313/tag/agentes-ia/</link>
+    </image>
+    
+    <item>
+      <title>MyAssistant. Chat IA y agentes inteligentes</title>
+      <link>http://localhost:1313/project/2024_myassistant/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2024_myassistant/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descripción:&lt;/strong&gt; Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo-mantenimiento&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en producción, pero todavía en fuerte evolución&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; interno&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gestión de conocimiento corporativo. Service Desk. Preventa.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos | Diego Souto</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cursos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Cursos</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Neo4j Certified Professional</title>
+      <link>http://localhost:1313/publication/202509_neo4j_certifiedprofessional/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202509_neo4j_certifiedprofessional/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Graph Academy (Neo4j)&lt;/li&gt;
+&lt;li&gt;Fecha: 2025-09&lt;/li&gt;
+&lt;li&gt;Duración: 10h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Neo4j Fundamentals&lt;/li&gt;
+&lt;li&gt;Graph Data Modeling Fundamentals&lt;/li&gt;
+&lt;li&gt;Cypher Fundamentals&lt;/li&gt;
+&lt;li&gt;Importing Data Fundamentals&lt;/li&gt;
+&lt;li&gt;Using Neo4j with Python&lt;/li&gt;
+&lt;li&gt;Intermediate Cypher Queries&lt;/li&gt;
+&lt;li&gt;Certification exam&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Líderes del futuro</title>
+      <link>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: ThePowerMBA&lt;/li&gt;
+&lt;li&gt;Fecha: 2025-10&lt;/li&gt;
+&lt;li&gt;Duración: 91h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading and managing people&lt;/li&gt;
+&lt;li&gt;Leading organizations&lt;/li&gt;
+&lt;li&gt;Innovation and agile mindset&lt;/li&gt;
+&lt;li&gt;Business model innovation&lt;/li&gt;
+&lt;li&gt;Business and marketing strategies&lt;/li&gt;
+&lt;li&gt;Power selling&lt;/li&gt;
+&lt;li&gt;Finance and accounting&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programa avanzado en Agile Project Management. SCRUM</title>
+      <link>http://localhost:1313/publication/202405_nred_scrum/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202405_nred_scrum/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Consellería de emprego, comercio e emigración&lt;/li&gt;
+&lt;li&gt;Fecha: 2024-05&lt;/li&gt;
+&lt;li&gt;Duración: 150h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gestión de proyectos
+&lt;ul&gt;
+&lt;li&gt;Herramientas para optimizar la gestión de proyectos software&lt;/li&gt;
+&lt;li&gt;Gestión ágil con Scrum y Kanban&lt;/li&gt;
+&lt;li&gt;Gestión de multiproyectos&lt;/li&gt;
+&lt;li&gt;Design Thinking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Comunicación empresarial
+&lt;ul&gt;
+&lt;li&gt;Habilidades de comunicación&lt;/li&gt;
+&lt;li&gt;Negociación avanzada&lt;/li&gt;
+&lt;li&gt;Liderazgo y transformación&lt;/li&gt;
+&lt;li&gt;Gestión del talento y nuevos modelos de organización&lt;/li&gt;
+&lt;li&gt;Gestión de equipos de alto rendimiento&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Estrategia y negocio
+&lt;ul&gt;
+&lt;li&gt;Business Intelligence&lt;/li&gt;
+&lt;li&gt;Customer experience&lt;/li&gt;
+&lt;li&gt;Estrategias digitales&lt;/li&gt;
+&lt;li&gt;Nuevos entornos&lt;/li&gt;
+&lt;li&gt;Value Proposition Design&lt;/li&gt;
+&lt;li&gt;Business Models Generation&lt;/li&gt;
+&lt;li&gt;Complex Sales Strateg&lt;/li&gt;
+&lt;li&gt;La metodología Scrum aplicada a los nuevos modelos de negocio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Análisis y visualización de datos con Excel y PowerBI</title>
+      <link>http://localhost:1313/publication/202403_bilib_powerbi/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202403_bilib_powerbi/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Desarrollo de Competencias Digitales de Castilla-La Mancha&lt;/li&gt;
+&lt;li&gt;Fecha: 2024-03&lt;/li&gt;
+&lt;li&gt;Duración: 80h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción a la inteligencia de negocio y herramientas&lt;/li&gt;
+&lt;li&gt;ETL en Excel - Power Query y PowerBI&lt;/li&gt;
+&lt;li&gt;Diseño del modelo de datos&lt;/li&gt;
+&lt;li&gt;Transformación de datos en Power Query y Power BI&lt;/li&gt;
+&lt;li&gt;Visualizaciones de alto impacto&lt;/li&gt;
+&lt;li&gt;Potenciar los informes con DAX&lt;/li&gt;
+&lt;li&gt;Integración de Excel y PowerBI&lt;/li&gt;
+&lt;li&gt;Compartir PowerBI con los usuarios&lt;/li&gt;
+&lt;li&gt;El servicio de PowerBI en la nube&lt;/li&gt;
+&lt;li&gt;Business Case: Dashboard para monitorizar KPIs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certificado profesional en Gestión de proyectos de Google</title>
+      <link>http://localhost:1313/publication/202311_google_gestionprjs/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202311_google_gestionprjs/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Google&lt;/li&gt;
+&lt;li&gt;Fecha: 2023-11&lt;/li&gt;
+&lt;li&gt;Duración: 120h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentos de la gestión de proyectos (15 horas)&lt;/li&gt;
+&lt;li&gt;Iniciación del proyecto: Cómo iniciar un proyecto exitoso (18 horas)&lt;/li&gt;
+&lt;li&gt;Planificación del proyecto: reunir todos los elementos (25 horas)&lt;/li&gt;
+&lt;li&gt;Ejecución del proyecto: Ejecutar el proyecto (23 horas)&lt;/li&gt;
+&lt;li&gt;Gestión de proyectos con la metodología Agile (22 horas)&lt;/li&gt;
+&lt;li&gt;Proyecto final: Aplicación de la gestión de proyectos en el mundo real (32 horas)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stratio Augmented Data Fabric Basics Certification</title>
+      <link>http://localhost:1313/publication/202311_stratio_basics/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202311_stratio_basics/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Stratio&lt;/li&gt;
+&lt;li&gt;Fecha: 2023-11&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción general a la plataforma Stratio OBJ-BAS-1&lt;/li&gt;
+&lt;li&gt;Introducción Augmented Data Governance OBJ-2-GOV&lt;/li&gt;
+&lt;li&gt;Introducción Entorno Analítico Rocket OBJ-3-ROCKET&lt;/li&gt;
+&lt;li&gt;Examen certificación: Stratio Augmented Data Fabric Basics (13.2)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python for Data Science and Machine Learning Bootcamp</title>
+      <link>http://localhost:1313/publication/202211_udemy_pythonfordatascienceandml/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202211_udemy_pythonfordatascienceandml/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: UDEMY&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-12&lt;/li&gt;
+&lt;li&gt;Duración: 25h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming with Python&lt;/li&gt;
+&lt;li&gt;NumPy with Python&lt;/li&gt;
+&lt;li&gt;Using pandas Data Frames to solve complex tasks&lt;/li&gt;
+&lt;li&gt;Use pandas to handle Excel Files&lt;/li&gt;
+&lt;li&gt;Web scraping with python&lt;/li&gt;
+&lt;li&gt;Connect Python to SQL&lt;/li&gt;
+&lt;li&gt;Use matplotlib and seaborn for data visualizations&lt;/li&gt;
+&lt;li&gt;Use plotly for interactive visualizations&lt;/li&gt;
+&lt;li&gt;Machine Learning with SciKit Learn, including:&lt;/li&gt;
+&lt;li&gt;Linear Regression&lt;/li&gt;
+&lt;li&gt;K Nearest Neighbors&lt;/li&gt;
+&lt;li&gt;K Means Clustering&lt;/li&gt;
+&lt;li&gt;Decision Trees&lt;/li&gt;
+&lt;li&gt;Random Forests&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Neural Nets and Deep Learning&lt;/li&gt;
+&lt;li&gt;Support Vector Machines&lt;/li&gt;
+&lt;li&gt;Recommender Systems&lt;/li&gt;
+&lt;li&gt;Big Data and Spark with Python&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning aplicado usando Python</title>
+      <link>http://localhost:1313/publication/202212_ceinpro_machinelearningpython/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202212_ceinpro_machinelearningpython/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: CEINPRO&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-12&lt;/li&gt;
+&lt;li&gt;Duración: 150h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;INTRODUCCIÓN AL CURSO
+&lt;ol&gt;
+&lt;li&gt;Introducción al Python&lt;/li&gt;
+&lt;li&gt;Librería de Python para Machine Learning.&lt;/li&gt;
+&lt;li&gt;Machine Learning. Introducción.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;APRENDIZAJE SUPERVISADO
+&lt;ol&gt;
+&lt;li&gt;Definición y aplicaciones.&lt;/li&gt;
+&lt;li&gt;Medidas de rendimiento.&lt;/li&gt;
+&lt;li&gt;Modelos lineales&lt;/li&gt;
+&lt;li&gt;Modelos supervisados de ML: árboles, SVM, redes neuronales.&lt;/li&gt;
+&lt;li&gt;Combinación de modelos. Random Forest.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;APRENDIZAJE NO SUPERVISADO
+&lt;ol&gt;
+&lt;li&gt;Definición y aplicaciones.&lt;/li&gt;
+&lt;li&gt;Medidas de rendimiento.&lt;/li&gt;
+&lt;li&gt;Clustering. Tipos&lt;/li&gt;
+&lt;li&gt;Biclustering&lt;/li&gt;
+&lt;li&gt;Manifolds. Reducción de la dimensionalidad&lt;/li&gt;
+&lt;li&gt;Análisis de la cesta.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestión agile del portfolio de proyectos</title>
+      <link>http://localhost:1313/publication/202005_cntg_escaladoagilesafe/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202005_cntg_escaladoagilesafe/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2020-05&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: online&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introdución a Lean Portfolio Management&lt;/li&gt;
+&lt;li&gt;Estrategia y financiación del portfolio&lt;/li&gt;
+&lt;li&gt;Portfolio Roadmap&lt;/li&gt;
+&lt;li&gt;El día a día en la gestión del portfolio&lt;/li&gt;
+&lt;li&gt;Gestión Lean del presupuesto&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inteligencia artificial aplicada a la empresa</title>
+      <link>http://localhost:1313/publication/202211_atu_machinelearningaplicado/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202211_atu_machinelearningaplicado/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: ATU&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-11&lt;/li&gt;
+&lt;li&gt;Duración: 250h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;INTRODUCCIÓN A LA IA.
+&lt;ol&gt;
+&lt;li&gt;Definición. Historia.&lt;/li&gt;
+&lt;li&gt;Ramas de la IA. Algoritmos.&lt;/li&gt;
+&lt;li&gt;Machine/Deep Learning.&lt;/li&gt;
+&lt;li&gt;Big data: el cambio en la IA.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;ALGORITMOS DE IA.
+&lt;ol&gt;
+&lt;li&gt;Machine Learning: modelos supervisados.&lt;/li&gt;
+&lt;li&gt;Machine learning: modelos no supervisados.&lt;/li&gt;
+&lt;li&gt;Aprendizaje por refuerzo.&lt;/li&gt;
+&lt;li&gt;Modelos profundos (Deep learning).&lt;/li&gt;
+&lt;li&gt;Ejemplos con Weka/Orange.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;APLICACIONES EN LA EMPRESA.
+&lt;ol&gt;
+&lt;li&gt;People Analytics.&lt;/li&gt;
+&lt;li&gt;Predicción: stocks, demandas, comportamientos.&lt;/li&gt;
+&lt;li&gt;Segmentación: análisis de oferta. Identificar tendencias.&lt;/li&gt;
+&lt;li&gt;Fidelización de clientes usando aprendizaje reforzado.&lt;/li&gt;
+&lt;li&gt;Recomendadores web.&lt;/li&gt;
+&lt;li&gt;Mejora de procesos.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a inteligencia artificial</title>
+      <link>http://localhost:1313/publication/202209_formadoresit_ia/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202209_formadoresit_ia/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Formadores IT&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-09&lt;/li&gt;
+&lt;li&gt;Duración: 30h&lt;/li&gt;
+&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción a la Inteligencia Artificial&lt;/li&gt;
+&lt;li&gt;Transformación Digital e Inteligencia Artificial&lt;/li&gt;
+&lt;li&gt;Robótica y Automatización&lt;/li&gt;
+&lt;li&gt;Tecnología e Innovaciones asociadas a la IA&lt;/li&gt;
+&lt;li&gt;Ámbitos de aplicación&lt;/li&gt;
+&lt;li&gt;Recomendaciones&lt;/li&gt;
+&lt;li&gt;Futuro de la IA&lt;/li&gt;
+&lt;li&gt;Liderazgo y Gestión de proyectos de inteligencia artificial&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data y Transformación Digital</title>
+      <link>http://localhost:1313/publication/202207_formadoresit_bigdata/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202207_formadoresit_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Formadores IT&lt;/li&gt;
+&lt;li&gt;Fecha: 2022-06&lt;/li&gt;
+&lt;li&gt;Duración: 40h&lt;/li&gt;
+&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;De los datos a las decisiones estratégicas. El mundo del dato&lt;/li&gt;
+&lt;li&gt;Data Management&lt;/li&gt;
+&lt;li&gt;Sistemas de información: Business Intelligence. ¿Por qué aparece Big Data? ¿Qué significa?&lt;/li&gt;
+&lt;li&gt;Arquitecturas Big Data&lt;/li&gt;
+&lt;li&gt;Visualización y toma de decisiones&lt;/li&gt;
+&lt;li&gt;Big Data &amp;amp; Analytics: Disciplinas científicas&lt;/li&gt;
+&lt;li&gt;Big Data &amp;amp; Analytics: Ámbitos de aplicación&lt;/li&gt;
+&lt;li&gt;Transformación Digital e IoT&lt;/li&gt;
+&lt;li&gt;Liderazgo y Gestión de proyectos de dato&lt;/li&gt;
+&lt;li&gt;Protección de datos&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ITIL 4 Strategist. Direct, Plan and Improve</title>
+      <link>http://localhost:1313/publication/202104_altia_itil4dpi/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202104_altia_itil4dpi/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Altia&lt;/li&gt;
+&lt;li&gt;Fecha: 2021-04&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptos clave de líder, planificación y mejora&lt;/li&gt;
+&lt;li&gt;Ámbito de control y métodos en gestión y planificación&lt;/li&gt;
+&lt;li&gt;Papel del gobierno, riesgo y cumplimiento (GRC)&lt;/li&gt;
+&lt;li&gt;Mejora continua&lt;/li&gt;
+&lt;li&gt;Comunicación y cambio organizacional (OCM)&lt;/li&gt;
+&lt;li&gt;Métodos de medida e informes de gestión&lt;/li&gt;
+&lt;li&gt;Dirigir planificar y mejorar. Flujos y prácticas de valor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes. Automatización, escalado y administración de aplicaciones en contenedores</title>
+      <link>http://localhost:1313/publication/202012_altia_k8s/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202012_altia_k8s/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Altia&lt;/li&gt;
+&lt;li&gt;Fecha: 2020-12&lt;/li&gt;
+&lt;li&gt;Duración: 25h&lt;/li&gt;
+&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;p&gt;SESIÓN 1. INTRODUCCIÓN&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentación del curso&lt;/li&gt;
+&lt;li&gt;Contexto y origen histórico&lt;/li&gt;
+&lt;li&gt;Virtualización vs. Paravirtualización. Origen y base tecnológica de los contenedores&lt;/li&gt;
+&lt;li&gt;Qué es docker. Conceptos clave. Ciclos de vida&lt;/li&gt;
+&lt;li&gt;Instalación y comandos básicos&lt;/li&gt;
+&lt;li&gt;Registry y dockerhub&lt;/li&gt;
+&lt;li&gt;Dockerfiles y proceso de construcción-publicación de imágenes&lt;/li&gt;
+&lt;li&gt;Redes de contenedores y docker-compose (y buenas prácticas)&lt;/li&gt;
+&lt;li&gt;Introducción a la orquestación: docker-swarm y kubernetes&lt;/li&gt;
+&lt;li&gt;Conclusiones. Para qué puede servirnos&lt;/li&gt;
+&lt;li&gt;Taller práctico solo con docker: frontal web + servidor apps + bd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SESIÓN 2. CONCEPTOS BÁSICOS K8S&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qué es y para qué sirve&lt;/li&gt;
+&lt;li&gt;Arquitectura y componentes&lt;/li&gt;
+&lt;li&gt;Cómo funciona internamente&lt;/li&gt;
+&lt;li&gt;Aplicabilidades: para qué es apropiado y para qué no&lt;/li&gt;
+&lt;li&gt;Tipos de objetos K8S y sus relaciones: pods, deployments, statefulset, service, ingress, namespaces, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Creación de descriptores yaml básicos: specs, probes, semejanza con docker-compose,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Etiquetas, selectores y anotaciones&lt;/li&gt;
+&lt;li&gt;Instalación para pruebas (minikube / microk8s)&lt;/li&gt;
+&lt;li&gt;Conexión a un cluster K8S y comandos básicos en cli: get, apply, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Réplicas y escalado&lt;/li&gt;
+&lt;li&gt;Flujo previsto para versionado y actualizaciones sin pérdida de servicio&lt;/li&gt;
+&lt;li&gt;Taller práctico: Desplegando y jugando con una app sencilla (pe. apache/nginx)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SESIÓN 3. DESCRIPTORES YAML CON MÁS DETALLE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Configuración: ConfigMaps y Secrets. Ficheros, envs, certificados&lt;/li&gt;
+&lt;li&gt;Despliegues: Deployments y StatefulSets. Probes, requests y limits, afinidades y tolerancias &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Persistencia: PersistenVolumes, Claims, StorageClass. Tipos de provisionadores.&lt;/li&gt;
+&lt;li&gt;Redes: Services e Ingress-nginx&lt;/li&gt;
+&lt;li&gt;Otros: CronJobs&lt;/li&gt;
+&lt;li&gt;Mejores prácticas y errores comunes a evitar&lt;/li&gt;
+&lt;li&gt;Helm charts&lt;/li&gt;
+&lt;li&gt;Herramientas de trabajo más cómodo: vscode+icepanel&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Taller práctico: Instalar un helm chart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SESIÓN 4. Instalación, configuración y administración básica&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taller práctico: Instalación y configuración de un cluster real incl dashboard, ingress, helm&lt;/li&gt;
+&lt;li&gt;Monitorización: prometheus / ELK&lt;/li&gt;
+&lt;li&gt;Lens&lt;/li&gt;
+&lt;li&gt;Certificados: cert-manager y letsencrypt&lt;/li&gt;
+&lt;li&gt;Registry privado seguro&lt;/li&gt;
+&lt;li&gt;Automatización del escalado&lt;/li&gt;
+&lt;li&gt;Integración continua: del git a K8S&lt;/li&gt;
+&lt;li&gt;Recomendaciones para backups&lt;/li&gt;
+&lt;li&gt;Fallos comunes. Troubleshooting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SESIÓN 5. Prácticas finales&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taller práctico: Desde el dockerfile al helm chart para una app de ejemplo que tenga un poco de todo: config, almacenamiento, ingress https, un cron&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seguridad y protección de datos</title>
+      <link>http://localhost:1313/publication/202005_altia_protecciondatos/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202005_altia_protecciondatos/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Altia&lt;/li&gt;
+&lt;li&gt;Fecha: 2020-05&lt;/li&gt;
+&lt;li&gt;Duración: 5h&lt;/li&gt;
+&lt;li&gt;Modalidad: online&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Marco legal&lt;/li&gt;
+&lt;li&gt;Cumplimiento de la privacidad y la confidencialidad&lt;/li&gt;
+&lt;li&gt;Aplicación al marco de ejecución de proyectos como prestador de servicios TIC&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El arte de la selección</title>
+      <link>http://localhost:1313/publication/202004_altia_arteseleccion/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202004_altia_arteseleccion/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Altia&lt;/li&gt;
+&lt;li&gt;Fecha: 2020-04&lt;/li&gt;
+&lt;li&gt;Duración: 5h&lt;/li&gt;
+&lt;li&gt;Modalidad: online&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Cómo identificar al candidato idóneo?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scrum Manager</title>
+      <link>http://localhost:1313/publication/201909_ebf_scrummaster/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201909_ebf_scrummaster/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: European Business Factory&lt;/li&gt;
+&lt;li&gt;Fecha: 2019-09&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción.&lt;/li&gt;
+&lt;li&gt;Descripción de Scrum y de los elementos que lo componen.&lt;/li&gt;
+&lt;li&gt;Pila del producto (product backlog).&lt;/li&gt;
+&lt;li&gt;Planificación del sprint.&lt;/li&gt;
+&lt;li&gt;Pila del sprint (sprint backlog).&lt;/li&gt;
+&lt;li&gt;El incremento.&lt;/li&gt;
+&lt;li&gt;Roles y responsabilidades.&lt;/li&gt;
+&lt;li&gt;Reunión de revisión del sprint.&lt;/li&gt;
+&lt;li&gt;Métrica, estimaciones y velocidad.&lt;/li&gt;
+&lt;li&gt;Las unidades.&lt;/li&gt;
+&lt;li&gt;Gráfico de avance (burn down).&lt;/li&gt;
+&lt;li&gt;Gráfico de producto (burn up).&lt;/li&gt;
+&lt;li&gt;Estimación de póquer.&lt;/li&gt;
+&lt;li&gt;Metodologías de gestión de proyectos.&lt;/li&gt;
+&lt;li&gt;Incremento iterativo e incremento continuo.&lt;/li&gt;
+&lt;li&gt;Conceptos y patrones de gestión de proyectos.&lt;/li&gt;
+&lt;li&gt;Personas, procesos y tecnología.&lt;/li&gt;
+&lt;li&gt;Responsabilidades de Scrum a nivel de gestión.&lt;/li&gt;
+&lt;li&gt;Trabajando con tableros kanban.&lt;/li&gt;
+&lt;li&gt;Muda, Mura y Muri, consejos para ajustar el flujo de tareas.&lt;/li&gt;
+&lt;li&gt;Scrum Experience: Simulación de Scrum basada en el juego.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DevOps de microservicios con Red Hat OpenShift</title>
+      <link>http://localhost:1313/publication/201906_cntg_devopsopenshift/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201906_cntg_devopsopenshift/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2019-06&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introdución a Docker, Kubernetes y Openshift&lt;/li&gt;
+&lt;li&gt;Instalación&lt;/li&gt;
+&lt;li&gt;Integración DevOps con OpenShift (CI/CD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BcU Certified Blockchain Ethereum Professional</title>
+      <link>http://localhost:1313/publication/201904_brightest_blockchain/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201904_brightest_blockchain/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Brightest&lt;/li&gt;
+&lt;li&gt;Fecha: 2019-04&lt;/li&gt;
+&lt;li&gt;Duración: 24h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to blockchain&lt;/li&gt;
+&lt;li&gt;Smart contract&lt;/li&gt;
+&lt;li&gt;Working with Ethereum platform, tools and development environment&lt;/li&gt;
+&lt;li&gt;Writing DApps&lt;/li&gt;
+&lt;li&gt;Tokenomics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dirección, liderazgo y desarrollo de negocio</title>
+      <link>http://localhost:1313/publication/201804_mrc_direccionliderazgo/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201804_mrc_direccionliderazgo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: MRC International training&lt;/li&gt;
+&lt;li&gt;Fecha: 2018-04&lt;/li&gt;
+&lt;li&gt;Duración: 32h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Thinking para tod@s</title>
+      <link>http://localhost:1313/publication/201803_upm_designthinking/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201803_upm_designthinking/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Politécnica de Madrid (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2018-03&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oportunidades de negocio para internet de las cosas</title>
+      <link>http://localhost:1313/publication/201802_utc_iot/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201802_utc_iot/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Tecnológica de Chile - INACAP (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2018-02&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data. Introducción a Spark</title>
+      <link>http://localhost:1313/publication/201711_ces_bigdata/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201711_ces_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Supercomputación de Galicia (CESGA)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-11&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción al Machine Learning</title>
+      <link>http://localhost:1313/publication/201710_tlf_machinelearning/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201710_tlf_machinelearning/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universitas Telefónica (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-10&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big data para una ciudad inteligente</title>
+      <link>http://localhost:1313/publication/201705_upm_bigdatasmartcity/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201705_upm_bigdatasmartcity/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Politécnica de Madrid (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-05&lt;/li&gt;
+&lt;li&gt;Duración: 48h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Despliegue de aplicaciones con Docker</title>
+      <link>http://localhost:1313/publication/201704_cntg_docker/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201704_cntg_docker/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2017-04&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción al tratamiento de datos con R y RStudio</title>
+      <link>http://localhost:1313/publication/201605_uib_rstudio/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201605_uib_rstudio/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universitat de les Illes Balears (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-10&lt;/li&gt;
+&lt;li&gt;Duración: 24h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data, el valor añadido de los datos en su negocio</title>
+      <link>http://localhost:1313/publication/201605_ucm_bigdata/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201605_ucm_bigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Católica de Murcia (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-05&lt;/li&gt;
+&lt;li&gt;Duración: 42h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI</title>
+      <link>http://localhost:1313/publication/201604_ujc_agilidadlean/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201604_ujc_agilidadlean/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Rey Juan Carlos (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-04&lt;/li&gt;
+&lt;li&gt;Duración: 50h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aplicaciones a escala web</title>
+      <link>http://localhost:1313/publication/201603_cntg_appsescalaweb/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201603_cntg_appsescalaweb/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-03&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desarrollo de habilidades personales en la dirección y gestión de proyectos, la gestión del cambio</title>
+      <link>http://localhost:1313/publication/201602_vit_gestioncambio/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201602_vit_gestioncambio/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Vitae Consultores&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-02&lt;/li&gt;
+&lt;li&gt;Duración: 10h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contenedores. Introducción a Docker</title>
+      <link>http://localhost:1313/publication/201602_cntg_docker/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201602_cntg_docker/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2016-02&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentaciones eficaces 5ª edición</title>
+      <link>http://localhost:1313/publication/201511_uc_presentaciones/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201511_uc_presentaciones/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad de Cantabria (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2015-11&lt;/li&gt;
+&lt;li&gt;Duración: 25h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liderazgo en tiempos de cambio</title>
+      <link>http://localhost:1313/publication/201511_tlf_liderazgo/</link>
+      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201511_tlf_liderazgo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universitas Telefónica (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2015-11&lt;/li&gt;
+&lt;li&gt;Duración: 10h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liderazgo y gestión de equipos de alto rendimiento</title>
+      <link>http://localhost:1313/publication/201510_uem_liderazgo/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201510_uem_liderazgo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Universidad Europea de Madrid (a través de MiriadaX)&lt;/li&gt;
+&lt;li&gt;Fecha: 2015-10&lt;/li&gt;
+&lt;li&gt;Duración: 25h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dirección y gestión de proyectos TI ágiles con Scrum, Scrumban y Lean Software</title>
+      <link>http://localhost:1313/publication/201501_vit_scrum/</link>
+      <pubDate>Sat, 07 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201501_vit_scrum/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Vitae Consultores&lt;/li&gt;
+&lt;li&gt;Fecha: 2015-02&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Standard CMMI Appraisal Method for Process Improvement</title>
+      <link>http://localhost:1313/publication/201414_esi_cmmiappraisal/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201414_esi_cmmiappraisal/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: European Software Institute consulting (ESI)&lt;/li&gt;
+&lt;li&gt;Fecha: 2014-12&lt;/li&gt;
+&lt;li&gt;Duración: 8h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comunicación y liderazgo</title>
+      <link>http://localhost:1313/publication/201309_fut_comliderazgo/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201309_fut_comliderazgo/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Plan Future&lt;/li&gt;
+&lt;li&gt;Fecha: 2013-09&lt;/li&gt;
+&lt;li&gt;Duración: 16h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción a Big Data</title>
+      <link>http://localhost:1313/publication/201212_cntg_introbigdata/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201212_cntg_introbigdata/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
+&lt;li&gt;Fecha: 2012-12&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sistemas de gestión de la seguridad de la información según ISO 27001</title>
+      <link>http://localhost:1313/publication/201003_int_iso27000/</link>
+      <pubDate>Sat, 27 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201003_int_iso27000/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Inteco&lt;/li&gt;
+&lt;li&gt;Fecha: 2010-03&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comercio electrónico</title>
+      <link>http://localhost:1313/publication/201001_rec_comercioelectronico/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/201001_rec_comercioelectronico/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Recol Networks SA&lt;/li&gt;
+&lt;li&gt;Fecha: 2010-01&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Satisfacción de cliente. Gestión de producto-servicio</title>
+      <link>http://localhost:1313/publication/200902_inn_satisfcliente/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200902_inn_satisfcliente/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Learning innova&lt;/li&gt;
+&lt;li&gt;Fecha: 2009-02&lt;/li&gt;
+&lt;li&gt;Duración: 42h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certificaciones internacionales. Project Management</title>
+      <link>http://localhost:1313/publication/200811_met_pmp/</link>
+      <pubDate>Fri, 28 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200811_met_pmp/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Método Consultores&lt;/li&gt;
+&lt;li&gt;Fecha: 2008-11&lt;/li&gt;
+&lt;li&gt;Duración: 270h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dirección de proyectos europeos</title>
+      <link>http://localhost:1313/publication/200805_met_gestionprjs/</link>
+      <pubDate>Thu, 08 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200805_met_gestionprjs/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Método Consultores&lt;/li&gt;
+&lt;li&gt;Fecha: 2008-05&lt;/li&gt;
+&lt;li&gt;Duración: 270h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de ITIL</title>
+      <link>http://localhost:1313/publication/200803_ips_fundamentositil/</link>
+      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200803_ips_fundamentositil/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Ideas Posibles SL&lt;/li&gt;
+&lt;li&gt;Fecha: 2008-03&lt;/li&gt;
+&lt;li&gt;Duración: 40h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestión de proyectos de sistemas de información</title>
+      <link>http://localhost:1313/publication/200803_ips_gestionprjs/</link>
+      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200803_ips_gestionprjs/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Ideas Posibles SL&lt;/li&gt;
+&lt;li&gt;Fecha: 2008-03&lt;/li&gt;
+&lt;li&gt;Duración: 30h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducción al modelo CMMI</title>
+      <link>http://localhost:1313/publication/200803_ips_cmmi/</link>
+      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200803_ips_cmmi/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Ideas Posibles SL&lt;/li&gt;
+&lt;li&gt;Fecha: 2008-03&lt;/li&gt;
+&lt;li&gt;Duración: 50h&lt;/li&gt;
+&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Firma electrónica y certificados digitales en la administración pública</title>
+      <link>http://localhost:1313/publication/200404_cxn_firmaelectronica/</link>
+      <pubDate>Mon, 26 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200404_cxn_firmaelectronica/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Escuela para las administraciones públicas CaixaNova&lt;/li&gt;
+&lt;li&gt;Fecha: 2004-04&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestión y planificacion de proyectos. Ms Project 2000</title>
+      <link>http://localhost:1313/publication/200301_udc_gprjsconmsproject2000/</link>
+      <pubDate>Fri, 17 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200301_udc_gprjsconmsproject2000/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Univesidad de A Coruña&lt;/li&gt;
+&lt;li&gt;Fecha: 2003-01&lt;/li&gt;
+&lt;li&gt;Duración: 20h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

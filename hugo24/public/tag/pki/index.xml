@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pki | Diego Souto</title>
+    <link>http://localhost:1313/tag/pki/</link>
+      <atom:link href="http://localhost:1313/tag/pki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pki</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 26 Apr 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Pki</title>
+      <link>http://localhost:1313/tag/pki/</link>
+    </image>
+    
+    <item>
+      <title>Firma electrónica y certificados digitales en la administración pública</title>
+      <link>http://localhost:1313/publication/200404_cxn_firmaelectronica/</link>
+      <pubDate>Mon, 26 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/200404_cxn_firmaelectronica/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Escuela para las administraciones públicas CaixaNova&lt;/li&gt;
+&lt;li&gt;Fecha: 2004-04&lt;/li&gt;
+&lt;li&gt;Duración: 4h&lt;/li&gt;
+&lt;li&gt;Modalidad: presencial&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

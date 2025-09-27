@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seguridad | Diego Souto</title>
+    <link>http://localhost:1313/tag/seguridad/</link>
+      <atom:link href="http://localhost:1313/tag/seguridad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seguridad</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
+      <title>Seguridad</title>
+      <link>http://localhost:1313/tag/seguridad/</link>
+    </image>
+    
+    <item>
+      <title>Seguridad y protección de datos</title>
+      <link>http://localhost:1313/publication/202005_altia_protecciondatos/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/202005_altia_protecciondatos/</guid>
+      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organismo: Altia&lt;/li&gt;
+&lt;li&gt;Fecha: 2020-05&lt;/li&gt;
+&lt;li&gt;Duración: 5h&lt;/li&gt;
+&lt;li&gt;Modalidad: online&lt;/li&gt;
+&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Marco legal&lt;/li&gt;
+&lt;li&gt;Cumplimiento de la privacidad y la confidencialidad&lt;/li&gt;
+&lt;li&gt;Aplicación al marco de ejecución de proyectos como prestador de servicios TIC&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
