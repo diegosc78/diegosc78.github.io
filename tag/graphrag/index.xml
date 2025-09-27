@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GraphRAG | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/graphrag/</link><atom:link href="https://diegosouto.duckdns.org/tag/graphrag/index.xml" rel="self" type="application/rss+xml"/><description>GraphRAG</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>GraphRAG</title><link>https://diegosouto.duckdns.org/tag/graphrag/</link></image><item><title>Neo4j Certified Professional</title><link>https://diegosouto.duckdns.org/publication/202509_neo4j_certifiedprofessional/</link><pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/202509_neo4j_certifiedprofessional/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Graph Academy (Neo4j)&lt;/li>
+&lt;li>Fecha: 2025-09&lt;/li>
+&lt;li>Duración: 10h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;ul>
+&lt;li>Neo4j Fundamentals&lt;/li>
+&lt;li>Graph Data Modeling Fundamentals&lt;/li>
+&lt;li>Cypher Fundamentals&lt;/li>
+&lt;li>Importing Data Fundamentals&lt;/li>
+&lt;li>Using Neo4j with Python&lt;/li>
+&lt;li>Intermediate Cypher Queries&lt;/li>
+&lt;li>Certification exam&lt;/li>
+&lt;/ul></description></item></channel></rss>

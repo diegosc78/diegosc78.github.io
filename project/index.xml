@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Diego Souto</title><link>https://diegosouto.duckdns.org/project/</link><atom:link href="https://diegosouto.duckdns.org/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://diegosouto.duckdns.org/project/</link></image><item><title>Desarrollo e implantación de un sistema de gestión de bonos sociales</title><link>https://diegosouto.duckdns.org/project/2021_bonos/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2021_bonos/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de un sistema de gestión de bonos sociales&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Desarrollo e implantación de un sistema de gestión de bonos sociales para ayudas de emergencia de alimentación en una entidad local, junto con una cadena de supermercados como colaborador, utilizando una tarjeta&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en soporte-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring boot, HTML5-CSS3, jHipster, Angular, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de expedientes, servicios sociales, gestión de ayudas.&lt;/li>
+&lt;/ul></description></item><item><title>MyAssistant. Chat IA y agentes inteligentes</title><link>https://diegosouto.duckdns.org/project/2024_myassistant/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2024_myassistant/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en producción, pero todavía en fuerte evolución&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> interno&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de conocimiento corporativo. Service Desk. Preventa.&lt;/li>
+&lt;/ul></description></item><item><title>Implantación, soporte y mantenimiento plataforma IoT y SOA</title><link>https://diegosouto.duckdns.org/project/2020_wso2/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_wso2/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Implantación y posterior soporte-mantenimiento de una plataforma IoT y SOA&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en soporte-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, WSO2 Enterprise Integrator, WSO2 Identity Server, WSO2 Stream Processor, WSO2 API Manager, RabbitMQ, MongoDB, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> monitorización industrial&lt;/li>
+&lt;/ul></description></item><item><title>Registro y declaración del IVA</title><link>https://diegosouto.duckdns.org/project/2020_vat/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_vat/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo de un sistema de gestión para las declaraciones de IVA a agencias tributarias europeas&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en ejecución&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> gestoría especializada en IVA a nivel internacional&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring boot, HTML5-CSS3, jHipster, Angular, Camunda, UIPath, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de IVA&lt;/li>
+&lt;/ul></description></item><item><title>Desarrollo e implantación portal de producto</title><link>https://diegosouto.duckdns.org/project/2020_cmsmim/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_cmsmim/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo, maquetación e integraciones de portal de producto y área privada de seguimiento de pedidos&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizaod&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial madera&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Drupal, HTML5-CSS3, PHP, Javascript, Angular&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> portal corporativo, catálogo de productos&lt;/li>
+&lt;/ul></description></item><item><title>Lugo Smart</title><link>https://diegosouto.duckdns.org/project/2018_smlug/</link><pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2018_smlug/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo de la iniciativa Lugo Smart City&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto (varios componentes)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Sistema de administración electrónica, incluyendo licitación electrónica&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Nuevos servicios para la tarjeta ciudadana&lt;/li>
+&lt;li>Parking inteligente&lt;/li>
+&lt;li>Smart waste&lt;/li>
+&lt;li>Eficiencia energética alumbrado, edificios públicos y telemedida contadores de agua&lt;/li>
+&lt;li>Consultoría plataforma smart&lt;/li>
+&lt;li>Infraestructura de servidores y sistemas base&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, PHP, Drupal, GeoServer, PC/SC, OTEA,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de expedientes, Gobierno abierto, Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Procedimientos y herramientas gestión área TIC</title><link>https://diegosouto.duckdns.org/project/2017_procstic/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_procstic/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Consultoría para mejora procesos de gestión del área TIC e implantación de una herramienta de gestión de peticiones&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> implantación de sistemas; consultoría&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> organismo dependiente de la administración autonómica&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Redmine&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tecnologías de la información&lt;/li>
+&lt;/ul></description></item><item><title>Servicio de asistencia técnica Business Intelligence</title><link>https://diegosouto.duckdns.org/project/2017_atbi/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_atbi/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Servicio de apoyo técnico en la construcción y mantenimiento de cuadros de mando, informes e indicadores&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> asistencia técnica&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Airflow, Nifi, Clickhouse, Pentaho, PowerBI &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gambling&lt;/li>
+&lt;/ul></description></item><item><title>Sistemas corporativos</title><link>https://diegosouto.duckdns.org/project/2017_sistemas/</link><pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_sistemas/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Soporte-mantenimiento de varios sistemas corporativos&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto. DevOps.&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> soporte e implantación de soluciones&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> proyecto interno (Altia)&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma de orquestación de contenedores&lt;/li>
+&lt;li>Repositorio de artefactos&lt;/li>
+&lt;li>Integración continua&lt;/li>
+&lt;li>Análisis estático de código&lt;/li>
+&lt;li>Análisis de vulnerabilidades en dependencias&lt;/li>
+&lt;li>Registry de imágenes de contenedores&lt;/li>
+&lt;li>eLearning&lt;/li>
+&lt;li>Encuestas&lt;/li>
+&lt;li>Inventario&lt;/li>
+&lt;li>CRM&lt;/li>
+&lt;li>Analítica y ETLs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, Sonatype Nexus, Jenkins, Sonarqube, Dependency-Track, Harbor, Moodle, LimeSurvey, SnipeIT, Metabase, Talend, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> consultoría tic y desarrollo&lt;/li>
+&lt;/ul></description></item><item><title>Implantación, soporte y mantenimiento ESB</title><link>https://diegosouto.duckdns.org/project/2016_esb/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2016_esb/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Implantación y posterior soporte-mantenimiento de una plataforma SOA, principalemente un Enterprise Service Bus (ESB)&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Incluye también disponibilización de servicios, flujos de auditoría, failover, balanceo, throttling, enrutamiento de mensajes, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración pública local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> WSO2 ESB, WSO2 Message Broker &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tecnologías de la información&lt;/li>
+&lt;/ul></description></item><item><title>Soporte-mantenimiento de maestros financieros</title><link>https://diegosouto.duckdns.org/project/2016_maestros/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2016_maestros/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Servicio de soporte-mantenimiento de múltiples sistemas maestros financieros&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> soporte-mantenimiento de software&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> multinacional del sector textil&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring, GWT, HTML-CSS, SWT, AS400,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de proveedores, gestión de impuestos, países, &amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>depoGAP</title><link>https://diegosouto.duckdns.org/project/2015_depogap/</link><pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2015_depogap/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de una plataforma de gestión de activos provinciales&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto (plataforma, cmi, portal)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración provincial&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma software de gestión de activos&lt;/li>
+&lt;li>Inventario georrefenciado de activos (más de 2 millones en 60 ayuntamientos)&lt;/li>
+&lt;li>Cuadro de mando integral&lt;/li>
+&lt;li>Portal web y app móvil al ciudadano&lt;/li>
+&lt;li>Pilotos de eficiencia energética: en instalaciones deportivas, en edificios públicos y en hogares&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, FAMA, HTML5-CSS3, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Inventario georreferenciado de bienes, Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Coruña Smart City</title><link>https://diegosouto.duckdns.org/project/2013_csc/</link><pubDate>Fri, 06 Jun 2014 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2013_csc/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de una plataforma Smart City&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto (plataforma)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma de interoperabilidad&lt;/li>
+&lt;li>Sistema de interconexión sensórica&lt;/li>
+&lt;li>Red troncal y gateway IoT&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Visualización avanzada&lt;/li>
+&lt;li>Business Intelligence&lt;/li>
+&lt;li>Portal smart&lt;/li>
+&lt;li>Open Data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring, Hibernate, HTML5-CSS3, bootstrap, MQTT, Oracle Service Bus, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Mercurio</title><link>https://diegosouto.duckdns.org/project/2011_mercurio/</link><pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2011_mercurio/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo y mantenimiento de un sistema de licitación electrónica&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Soporte al proceso de publicación de anuncios, invitaciones, presentación de ofertas (incluyendo ensobrado y lacrado electrónico), gestión de las aperturas por las mesas de contratación, adjudicación, firma de contrato, registro de contratistas, etc.
+Se trata de un producto desplegado on-premise y on-cloud (SaaS)&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> múltiples administraciones públicas: locales, autonómicas y estatales&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring, Hibernate, HTML5-CSS3, PKI, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> licitación electrónica&lt;/li>
+&lt;/ul></description></item><item><title>Tarjeta Ciudadana Logroño</title><link>https://diegosouto.duckdns.org/project/2008_tclog/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2008_tclog/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de un sistema de tarjeta ciudadana&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Tarjeta multiservicio inalámbrica, incluyendo monedero electrónico y gestión de puntos de recarga&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Arquitecto de software&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Hibernate, HTML-CSS, PC/SC, Quartz,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tarjeta ciudadana&lt;/li>
+&lt;/ul></description></item><item><title>Plan de continuidad de negocio</title><link>https://diegosouto.duckdns.org/project/2005_pcn/</link><pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2005_pcn/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Plan de continuidad de negocio&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Consultoría tecnológica para la definición de un plan de contingencia y continuidad de negocio&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Consultor de sistemas&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> consultoría&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> gran empresa sector turístico&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tecnologías de la información&lt;/li>
+&lt;/ul></description></item><item><title>Tarjeta Coruña Millennium</title><link>https://diegosouto.duckdns.org/project/2005_millennium/</link><pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2005_millennium/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de un sistema de tarjeta ciudadana&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Un sistema multiservicio con más de 200.000 tarjetas incluyendo servicios de monedero electrónico para transportes, ORA, pago de tasas, identificación en bibliotecas, en deportes, &amp;hellip; abarcando todo el ciclo de vida de las tarjetas.&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Hibernate, HTML-CSS, PC/SC, Quartz,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tarjeta ciudadana&lt;/li>
+&lt;/ul></description></item><item><title>Auditoría de seguridad</title><link>https://diegosouto.duckdns.org/project/2004_auditseg/</link><pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2004_auditseg/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Auditoría de seguridad&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Consultoría tecnológica para la auditoría de seguridad de la red de datos y red ISP&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Consultor de sistemas&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> consultoría&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> telco&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> sistemas de información y comunicaciones&lt;/li>
+&lt;/ul></description></item><item><title>Desarrollo-Mantenimiento de sistema de gestión de expedientes</title><link>https://diegosouto.duckdns.org/project/2004_eadmon/</link><pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2004_eadmon/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Gestión de expedientes&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Desarrollo-mantenimiento de una plataforma de gestión de expedienes para la administración pública&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Analista-Programador&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> varios organismos públicos de ámbito local&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> gestión de expedientes&lt;/li>
+&lt;/ul></description></item><item><title>Plan estratégico de sistemas</title><link>https://diegosouto.duckdns.org/project/2004_psi/</link><pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2004_psi/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Plan estratégico de sistemas&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Consultoría tecnológica para la definición de un plan estratégico de evolución de los sistemas corporativos&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Consultor&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> consultoría&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> organismo dependiente de la administración autonómica&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> gestión de emergencias sanitarias, tecnologías de la información&lt;/li>
+&lt;/ul></description></item></channel></rss>

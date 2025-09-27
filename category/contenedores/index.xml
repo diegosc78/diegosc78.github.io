@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contenedores | Diego Souto</title><link>https://diegosouto.duckdns.org/category/contenedores/</link><atom:link href="https://diegosouto.duckdns.org/category/contenedores/index.xml" rel="self" type="application/rss+xml"/><description>Contenedores</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Contenedores</title><link>https://diegosouto.duckdns.org/category/contenedores/</link></image><item><title>Laboratorio casero de Kubernetes</title><link>https://diegosouto.duckdns.org/post/k8shomelab/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/post/k8shomelab/</guid><description>&lt;h2 id="características">Características&lt;/h2>
+&lt;ul>
+&lt;li>Resiliencia. Aguanta caídas de nodos o aplicaciones, reiniciándose o moviendo cargas a otros nodos&lt;/li>
+&lt;li>Escalabilidad. Tanto física (añadir más nodos) como lógica (añadir más réplicas, productos, &amp;hellip;)&lt;/li>
+&lt;li>Observabilidad. Métricas hardware, infra y software.&lt;/li>
+&lt;/ul>
+&lt;h2 id="hardware">Hardware&lt;/h2>
+&lt;p>En mi caso:&lt;/p>
+&lt;ul>
+&lt;li>1 raspberry 4GB&lt;/li>
+&lt;li>2 raspberry 8GB&lt;/li>
+&lt;li>1 rock64 4GB&lt;/li>
+&lt;li>1 intel celeron 5000&lt;/li>
+&lt;li>1 intel celeron n100&lt;/li>
+&lt;li>2 SSDs&lt;/li>
+&lt;li>Switch 8 puertos, cables, envolventes, &amp;hellip;&lt;/li>
+&lt;li>1 SAI&lt;/li>
+&lt;/ul>
+&lt;h2 id="software">Software&lt;/h2>
+&lt;p>En mi caso, entre otras cosas:&lt;/p>
+&lt;ul>
+&lt;li>Web personal&lt;/li>
+&lt;li>Servidor de música&lt;/li>
+&lt;li>Servidor de fotos&lt;/li>
+&lt;li>Domótica de casa&lt;/li>
+&lt;li>Videovigilancia&lt;/li>
+&lt;li>Ingesta de datos (scrappers, rpa, conectores servicios web externos, &amp;hellip;)&lt;/li>
+&lt;li>Mensajería asíncrona (bus de eventos usado por ingesta, domótica, alertas, monitorización)&lt;/li>
+&lt;li>Alertas (mail, telegram, &amp;hellip;)&lt;/li>
+&lt;li>Infra software: registry, monitorización, dns filtrado, balanceador, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="principales-retos">Principales retos&lt;/h2>
+&lt;ul>
+&lt;li>Multi-arquitectura. No todo está preparado para esto. Se han requerido varias adaptaciones para acomodar nodos intel y arm en el mismo cluster.&lt;/li>
+&lt;/ul>
+&lt;h2 id="principales-limitaciones">Principales limitaciones&lt;/h2>
+&lt;ul>
+&lt;li>Hay puntos únicos de fallo; por ejemplo, un nodo tiene un dongle USB Zwave. Eso limita las poisibilidades de redespliegue en caliente en otro nodo.&lt;/li>
+&lt;li>Potencia. No se le pueden pedir milagros a las raspberries, ni en CPU ni en memoria.&lt;/li>
+&lt;li>Almacenamiento distribuido. Algún repositorio es masivo y no puede ser distribuido (con los recursos hardware que tengo).&lt;/li>
+&lt;/ul></description></item></channel></rss>

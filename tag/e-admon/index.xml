@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>E-Admon | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/e-admon/</link><atom:link href="https://diegosouto.duckdns.org/tag/e-admon/index.xml" rel="self" type="application/rss+xml"/><description>E-Admon</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>E-Admon</title><link>https://diegosouto.duckdns.org/tag/e-admon/</link></image><item><title>Mercurio</title><link>https://diegosouto.duckdns.org/project/2011_mercurio/</link><pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2011_mercurio/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo y mantenimiento de un sistema de licitación electrónica&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Soporte al proceso de publicación de anuncios, invitaciones, presentación de ofertas (incluyendo ensobrado y lacrado electrónico), gestión de las aperturas por las mesas de contratación, adjudicación, firma de contrato, registro de contratistas, etc.
+Se trata de un producto desplegado on-premise y on-cloud (SaaS)&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> múltiples administraciones públicas: locales, autonómicas y estatales&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring, Hibernate, HTML5-CSS3, PKI, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> licitación electrónica&lt;/li>
+&lt;/ul></description></item><item><title>Tarjeta Ciudadana Logroño</title><link>https://diegosouto.duckdns.org/project/2008_tclog/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2008_tclog/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de un sistema de tarjeta ciudadana&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Tarjeta multiservicio inalámbrica, incluyendo monedero electrónico y gestión de puntos de recarga&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Arquitecto de software&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Hibernate, HTML-CSS, PC/SC, Quartz,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tarjeta ciudadana&lt;/li>
+&lt;/ul></description></item><item><title>Tarjeta Coruña Millennium</title><link>https://diegosouto.duckdns.org/project/2005_millennium/</link><pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2005_millennium/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de un sistema de tarjeta ciudadana&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Un sistema multiservicio con más de 200.000 tarjetas incluyendo servicios de monedero electrónico para transportes, ORA, pago de tasas, identificación en bibliotecas, en deportes, &amp;hellip; abarcando todo el ciclo de vida de las tarjetas.&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Hibernate, HTML-CSS, PC/SC, Quartz,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> tarjeta ciudadana&lt;/li>
+&lt;/ul></description></item><item><title>Desarrollo-Mantenimiento de sistema de gestión de expedientes</title><link>https://diegosouto.duckdns.org/project/2004_eadmon/</link><pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2004_eadmon/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Gestión de expedientes&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Desarrollo-mantenimiento de una plataforma de gestión de expedienes para la administración pública&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Analista-Programador&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> varios organismos públicos de ámbito local&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> gestión de expedientes&lt;/li>
+&lt;/ul></description></item><item><title>Firma electrónica y certificados digitales en la administración pública</title><link>https://diegosouto.duckdns.org/publication/200404_cxn_firmaelectronica/</link><pubDate>Mon, 26 Apr 2004 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/200404_cxn_firmaelectronica/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Escuela para las administraciones públicas CaixaNova&lt;/li>
+&lt;li>Fecha: 2004-04&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agentes IA | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/agentes-ia/</link><atom:link href="https://diegosouto.duckdns.org/tag/agentes-ia/index.xml" rel="self" type="application/rss+xml"/><description>Agentes IA</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Agentes IA</title><link>https://diegosouto.duckdns.org/tag/agentes-ia/</link></image><item><title>MyAssistant. Chat IA y agentes inteligentes</title><link>https://diegosouto.duckdns.org/project/2024_myassistant/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2024_myassistant/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en producción, pero todavía en fuerte evolución&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> interno&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de conocimiento corporativo. Service Desk. Preventa.&lt;/li>
+&lt;/ul></description></item></channel></rss>

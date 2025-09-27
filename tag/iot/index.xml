@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IoT | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/iot/</link><atom:link href="https://diegosouto.duckdns.org/tag/iot/index.xml" rel="self" type="application/rss+xml"/><description>IoT</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>IoT</title><link>https://diegosouto.duckdns.org/tag/iot/</link></image><item><title>Implantación, soporte y mantenimiento plataforma IoT y SOA</title><link>https://diegosouto.duckdns.org/project/2020_wso2/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_wso2/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Implantación y posterior soporte-mantenimiento de una plataforma IoT y SOA&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en soporte-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, WSO2 Enterprise Integrator, WSO2 Identity Server, WSO2 Stream Processor, WSO2 API Manager, RabbitMQ, MongoDB, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> monitorización industrial&lt;/li>
+&lt;/ul></description></item><item><title>Lugo Smart</title><link>https://diegosouto.duckdns.org/project/2018_smlug/</link><pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2018_smlug/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo de la iniciativa Lugo Smart City&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto (varios componentes)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Sistema de administración electrónica, incluyendo licitación electrónica&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Nuevos servicios para la tarjeta ciudadana&lt;/li>
+&lt;li>Parking inteligente&lt;/li>
+&lt;li>Smart waste&lt;/li>
+&lt;li>Eficiencia energética alumbrado, edificios públicos y telemedida contadores de agua&lt;/li>
+&lt;li>Consultoría plataforma smart&lt;/li>
+&lt;li>Infraestructura de servidores y sistemas base&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, PHP, Drupal, GeoServer, PC/SC, OTEA,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de expedientes, Gobierno abierto, Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Oportunidades de negocio para internet de las cosas</title><link>https://diegosouto.duckdns.org/publication/201802_utc_iot/</link><pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201802_utc_iot/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Universidad Tecnológica de Chile - INACAP (a través de MiriadaX)&lt;/li>
+&lt;li>Fecha: 2018-02&lt;/li>
+&lt;li>Duración: 20h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>depoGAP</title><link>https://diegosouto.duckdns.org/project/2015_depogap/</link><pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2015_depogap/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de una plataforma de gestión de activos provinciales&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto (plataforma, cmi, portal)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración provincial&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma software de gestión de activos&lt;/li>
+&lt;li>Inventario georrefenciado de activos (más de 2 millones en 60 ayuntamientos)&lt;/li>
+&lt;li>Cuadro de mando integral&lt;/li>
+&lt;li>Portal web y app móvil al ciudadano&lt;/li>
+&lt;li>Pilotos de eficiencia energética: en instalaciones deportivas, en edificios públicos y en hogares&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, FAMA, HTML5-CSS3, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Inventario georreferenciado de bienes, Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Coruña Smart City</title><link>https://diegosouto.duckdns.org/project/2013_csc/</link><pubDate>Fri, 06 Jun 2014 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2013_csc/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de una plataforma Smart City&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto (plataforma)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma de interoperabilidad&lt;/li>
+&lt;li>Sistema de interconexión sensórica&lt;/li>
+&lt;li>Red troncal y gateway IoT&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Visualización avanzada&lt;/li>
+&lt;li>Business Intelligence&lt;/li>
+&lt;li>Portal smart&lt;/li>
+&lt;li>Open Data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring, Hibernate, HTML5-CSS3, bootstrap, MQTT, Oracle Service Bus, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Smart city&lt;/li>
+&lt;/ul></description></item></channel></rss>

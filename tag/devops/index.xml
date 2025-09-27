@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/devops/</link><atom:link href="https://diegosouto.duckdns.org/tag/devops/index.xml" rel="self" type="application/rss+xml"/><description>DevOps</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 30 Nov 2020 08:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>DevOps</title><link>https://diegosouto.duckdns.org/tag/devops/</link></image><item><title>Kubernetes. Automatización de la implementación, el escalado y la administración de aplicaciones en contenedores</title><link>https://diegosouto.duckdns.org/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</link><pubDate>Mon, 30 Nov 2020 08:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</guid><description/></item><item><title>Kubernetes. Automatización, escalado y administración de aplicaciones en contenedores</title><link>https://diegosouto.duckdns.org/publication/202012_altia_k8s/</link><pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/202012_altia_k8s/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Altia&lt;/li>
+&lt;li>Fecha: 2020-12&lt;/li>
+&lt;li>Duración: 25h&lt;/li>
+&lt;li>Modalidad: telepresencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;p>SESIÓN 1. INTRODUCCIÓN&lt;/p>
+&lt;ul>
+&lt;li>Presentación del curso&lt;/li>
+&lt;li>Contexto y origen histórico&lt;/li>
+&lt;li>Virtualización vs. Paravirtualización. Origen y base tecnológica de los contenedores&lt;/li>
+&lt;li>Qué es docker. Conceptos clave. Ciclos de vida&lt;/li>
+&lt;li>Instalación y comandos básicos&lt;/li>
+&lt;li>Registry y dockerhub&lt;/li>
+&lt;li>Dockerfiles y proceso de construcción-publicación de imágenes&lt;/li>
+&lt;li>Redes de contenedores y docker-compose (y buenas prácticas)&lt;/li>
+&lt;li>Introducción a la orquestación: docker-swarm y kubernetes&lt;/li>
+&lt;li>Conclusiones. Para qué puede servirnos&lt;/li>
+&lt;li>Taller práctico solo con docker: frontal web + servidor apps + bd&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 2. CONCEPTOS BÁSICOS K8S&lt;/p>
+&lt;ul>
+&lt;li>Qué es y para qué sirve&lt;/li>
+&lt;li>Arquitectura y componentes&lt;/li>
+&lt;li>Cómo funciona internamente&lt;/li>
+&lt;li>Aplicabilidades: para qué es apropiado y para qué no&lt;/li>
+&lt;li>Tipos de objetos K8S y sus relaciones: pods, deployments, statefulset, service, ingress, namespaces, &amp;hellip;&lt;/li>
+&lt;li>Creación de descriptores yaml básicos: specs, probes, semejanza con docker-compose,&amp;hellip;&lt;/li>
+&lt;li>Etiquetas, selectores y anotaciones&lt;/li>
+&lt;li>Instalación para pruebas (minikube / microk8s)&lt;/li>
+&lt;li>Conexión a un cluster K8S y comandos básicos en cli: get, apply, &amp;hellip;&lt;/li>
+&lt;li>Réplicas y escalado&lt;/li>
+&lt;li>Flujo previsto para versionado y actualizaciones sin pérdida de servicio&lt;/li>
+&lt;li>Taller práctico: Desplegando y jugando con una app sencilla (pe. apache/nginx)&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 3. DESCRIPTORES YAML CON MÁS DETALLE&lt;/p>
+&lt;ul>
+&lt;li>Configuración: ConfigMaps y Secrets. Ficheros, envs, certificados&lt;/li>
+&lt;li>Despliegues: Deployments y StatefulSets. Probes, requests y limits, afinidades y tolerancias &amp;hellip;&lt;/li>
+&lt;li>Persistencia: PersistenVolumes, Claims, StorageClass. Tipos de provisionadores.&lt;/li>
+&lt;li>Redes: Services e Ingress-nginx&lt;/li>
+&lt;li>Otros: CronJobs&lt;/li>
+&lt;li>Mejores prácticas y errores comunes a evitar&lt;/li>
+&lt;li>Helm charts&lt;/li>
+&lt;li>Herramientas de trabajo más cómodo: vscode+icepanel&amp;hellip;&lt;/li>
+&lt;li>Taller práctico: Instalar un helm chart&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 4. Instalación, configuración y administración básica&lt;/p>
+&lt;ul>
+&lt;li>Taller práctico: Instalación y configuración de un cluster real incl dashboard, ingress, helm&lt;/li>
+&lt;li>Monitorización: prometheus / ELK&lt;/li>
+&lt;li>Lens&lt;/li>
+&lt;li>Certificados: cert-manager y letsencrypt&lt;/li>
+&lt;li>Registry privado seguro&lt;/li>
+&lt;li>Automatización del escalado&lt;/li>
+&lt;li>Integración continua: del git a K8S&lt;/li>
+&lt;li>Recomendaciones para backups&lt;/li>
+&lt;li>Fallos comunes. Troubleshooting.&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 5. Prácticas finales&lt;/p>
+&lt;ul>
+&lt;li>Taller práctico: Desde el dockerfile al helm chart para una app de ejemplo que tenga un poco de todo: config, almacenamiento, ingress https, un cron&lt;/li>
+&lt;/ul></description></item><item><title>DevOps de microservicios con Red Hat OpenShift</title><link>https://diegosouto.duckdns.org/publication/201906_cntg_devopsopenshift/</link><pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201906_cntg_devopsopenshift/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2019-06&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;ul>
+&lt;li>Introdución a Docker, Kubernetes y Openshift&lt;/li>
+&lt;li>Instalación&lt;/li>
+&lt;li>Integración DevOps con OpenShift (CI/CD)&lt;/li>
+&lt;/ul></description></item><item><title>Despliegue de aplicaciones con Docker</title><link>https://diegosouto.duckdns.org/publication/201704_cntg_docker/</link><pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201704_cntg_docker/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2017-04&lt;/li>
+&lt;li>Duración: 20h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Sistemas corporativos</title><link>https://diegosouto.duckdns.org/project/2017_sistemas/</link><pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_sistemas/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Soporte-mantenimiento de varios sistemas corporativos&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto. DevOps.&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> soporte e implantación de soluciones&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> proyecto interno (Altia)&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma de orquestación de contenedores&lt;/li>
+&lt;li>Repositorio de artefactos&lt;/li>
+&lt;li>Integración continua&lt;/li>
+&lt;li>Análisis estático de código&lt;/li>
+&lt;li>Análisis de vulnerabilidades en dependencias&lt;/li>
+&lt;li>Registry de imágenes de contenedores&lt;/li>
+&lt;li>eLearning&lt;/li>
+&lt;li>Encuestas&lt;/li>
+&lt;li>Inventario&lt;/li>
+&lt;li>CRM&lt;/li>
+&lt;li>Analítica y ETLs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, Sonatype Nexus, Jenkins, Sonarqube, Dependency-Track, Harbor, Moodle, LimeSurvey, SnipeIT, Metabase, Talend, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> consultoría tic y desarrollo&lt;/li>
+&lt;/ul></description></item><item><title>Aplicaciones a escala web</title><link>https://diegosouto.duckdns.org/publication/201603_cntg_appsescalaweb/</link><pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201603_cntg_appsescalaweb/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2016-03&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Contenedores. Introducción a Docker</title><link>https://diegosouto.duckdns.org/publication/201602_cntg_docker/</link><pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201602_cntg_docker/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2016-02&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>
