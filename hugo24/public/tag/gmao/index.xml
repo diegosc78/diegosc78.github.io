@@ -1,42 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>GMAO | Diego Souto</title>
-    <link>http://localhost:1313/tag/gmao/</link>
-      <atom:link href="http://localhost:1313/tag/gmao/index.xml" rel="self" type="application/rss+xml" />
-    <description>GMAO</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 06 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
-      <title>GMAO</title>
-      <link>http://localhost:1313/tag/gmao/</link>
-    </image>
-    
-    <item>
-      <title>depoGAP</title>
-      <link>http://localhost:1313/project/2015_depogap/</link>
-      <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2015_depogap/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo e implantación de una plataforma de gestión de activos provinciales&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto (plataforma, cmi, portal)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; finalizado&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; administración provincial&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Plataforma software de gestión de activos&lt;/li&gt;
-&lt;li&gt;Inventario georrefenciado de activos (más de 2 millones en 60 ayuntamientos)&lt;/li&gt;
-&lt;li&gt;Cuadro de mando integral&lt;/li&gt;
-&lt;li&gt;Portal web y app móvil al ciudadano&lt;/li&gt;
-&lt;li&gt;Pilotos de eficiencia energética: en instalaciones deportivas, en edificios públicos y en hogares&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Java, FAMA, HTML5-CSS3, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Inventario georreferenciado de bienes, Smart city&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GMAO | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/gmao/</link><atom:link href="https://diegosouto.duckdns.org/tag/gmao/index.xml" rel="self" type="application/rss+xml"/><description>GMAO</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 06 Jun 2015 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>GMAO</title><link>https://diegosouto.duckdns.org/tag/gmao/</link></image><item><title>depoGAP</title><link>https://diegosouto.duckdns.org/project/2015_depogap/</link><pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2015_depogap/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo e implantación de una plataforma de gestión de activos provinciales&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto (plataforma, cmi, portal)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> finalizado&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración provincial&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma software de gestión de activos&lt;/li>
+&lt;li>Inventario georrefenciado de activos (más de 2 millones en 60 ayuntamientos)&lt;/li>
+&lt;li>Cuadro de mando integral&lt;/li>
+&lt;li>Portal web y app móvil al ciudadano&lt;/li>
+&lt;li>Pilotos de eficiencia energética: en instalaciones deportivas, en edificios públicos y en hogares&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, FAMA, HTML5-CSS3, Sofia2, ArcGIS, eVidens, Liferay,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Inventario georreferenciado de bienes, Smart city&lt;/li>
+&lt;/ul></description></item></channel></rss>

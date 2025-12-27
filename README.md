@@ -13,25 +13,15 @@ Estado: En edición. Incompleto (2025-09-07)
 
 - Fuente [JSON](./reactive_resume.json)
 - Visible en <https://rxresu.me/diego.souto/diego-souto-catoira>
-- Editor visual web en <https://rxresu.me/dashboard/resumes>
+- Editor visual web en <https://rxresu.me/dashboard/resumes> (autenticarse con github)
 - Instrucciones de publicación en <https://docs.rxresu.me/product-guides/making-your-resume-publicly-available>
-
-## JEKILL AL-FOLIO
-
-- Partiendo de versión [0.14.6](https://github.com/alshedivat/al-folio/tree/v0.14.6)
-- Instrucciones en video en <https://github.com/alshedivat/al-folio/blob/v0.14.6/assets/video/tutorial_al_folio.mp4>
-- Mi repo en <https://github.com/diegosc78/diegosouto.github.io>
-  - Importante: en _config.yaml está la URL (debe coincidir con nombre DNS y protocolo con el que se accederá)
-- Cuando se hace push a mi repo se desencadena github actions que compila y publica en rama gh-pages
-- Lo de la rama gh-pages es html estático y se puede descargar y montar directamente en nginx. Ejemplo:
-
-```bash
-podman run --name alfolio --rm -v ./site:/usr/share/nginx/html:ro -p 8080:80 docker.io/library/nginx:latest
-```
+- Últimamente estoy bajando el PDF de ahí en lugar de generarlo desde el ODT.
+  - En el editor visual web, opción generar PDF.
+  - A veces no incluye bien la foto. Probar pequeños cambios en CV y reintentar.
 
 ## CV HUGO
 
-IMPORTANTE: (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... olvidar actualizar. Esto se mantiene únicamente en el devcontainer (versiones congeladas).
+**IMPORTANTE:** (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... olvidar actualizar. Esto **se mantiene únicamente en el devcontainer** (versiones congeladas).
 
 ### REFERENCIAS
 
@@ -89,13 +79,27 @@ El navegador, mejor abrirlo en ventana privada (a veces en ventana normal se que
 
 ### GENERAR VERSIÓN ESTÁTICA
 
+Ojo, hacerlo siempre dentro de devcontainer para asegurar versiones exactas prefijadas.
+
 ```bash
 curriculumweb/hugo24$ make build
 ```
 
 ### PUBLICAR
 
-La última versión del helm chart cvweb ya tira de git (rama "pro"). Así pues, lo que hay es que dejar en la rama "pro" el contenido del directorio "public".
+ANTES 202512:
+  - El helm chart cvweb ya tira de git (rama "pro"). Así pues, lo que hay es que dejar en la rama "pro" el contenido del directorio "public".
+  - Se publica en infra propia, bajo ddns diegosouto.duckdns.org
+
+TRAS 202512:
+  - El contenido de la carpeta hugo24/public/ es el HTML estático generado por HUGO para publicar (tras generar versión estática).
+  - Bitnami ya no da soporte a sus imágenes así que volvemos al viejo sistema de tener una imagen propia. Ahora tiramos de helm-parent.
+  - El target dockerbuild en el Makefile debe ejecutarse FUERA del devcontainer cuando ya se hizo el make build. El Dockefile tira de dhi.io . Hay que autenticarse previamente (docker login dhi.io) con las credenciales de ponte124 (dockerhub)
+  - Se publica en github pages. https://diegosc78.github.io
+  - Cuando se hace push a mi repo (rama gh-pages) se desencadena en unos minutos la publicación en gh-pages
+  
+OPCIONAL (no lo tengo ahora debido a los fallos de disponibilidad intermitentes del ddns duckdns):
+  - Se puede aprovechar el nombre diegosouto.duckdns.org para apuntar a la IP de GH Pages y que sirva lo de diegosc78.github.io.
 
 ### ACTUALIZACIONES DE LA BASE DE HUGO
 
@@ -118,12 +122,17 @@ cp -dpR hugo2310/i18n hugo24/
 
 - A partir de estas copias... lo demás hay que ir comparándolo con diff en el vscode para adaptarse. Previsiblemente las carpetas "config" y "content".
 
+## JEKILL AL-FOLIO (experimento)
+
+- Partiendo de versión [0.14.6](https://github.com/alshedivat/al-folio/tree/v0.14.6)
+- Instrucciones en video en <https://github.com/alshedivat/al-folio/blob/v0.14.6/assets/video/tutorial_al_folio.mp4>
+
+
 ### TO DO
 
 - ARTÍCULOS: Crear algún post al estilo unpocodejava; por ejemplo...
   - CI/CD
   - DEMML
-- REPO:
-  - (en curso) Crear Makefile (ojo comandos hugo bien montados con parámetros completos)
+  - Kit multimedia casa
 - I18N:
   - Meter todo también en inglés

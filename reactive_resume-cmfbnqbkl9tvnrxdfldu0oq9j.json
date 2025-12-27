@@ -1,0 +1,1829 @@
+{
+  "basics": {
+    "name": "Diego Souto Catoira",
+    "headline": "Program Manager. Head of Technology Strategy & Partnerships at Altia",
+    "email": "dsoutoc@mailfence.com",
+    "phone": "+34 654598409",
+    "location": "Arteixo, 15141, A Coruña, ES",
+    "url": {
+      "label": "",
+      "href": "https://diegosc78.github.io"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://github.com/diegosc78/diegosc78.github.io/blob/master/hugo24/content/authors/admin/avatar.jpg?raw=true",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "Experienced Program Manager at Altia with a proven track record in diverse projects including consulting, software development, system implementation, and support-maintenance. Currently, I focus on advising, pre-sales, and developing value propositions. I actively contribute to internal company improvement processes, spanning quality, technology, and strategy. I also collaborate transversally within Altia Group's Global Risks Unit and serve as Head of Technology Strategy and Partnerships within Altia's Technology Directorate. My past transversal roles include corporate tools, training management, and process improvement. I am committed to continuous learning and strive to instill values of professionalism, responsibility, and dedication to excellence in my teams."
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "qiaxvzx731q7id9ss2euwapx",
+          "visible": true,
+          "title": "IT Tech Engineering Student prize 1999",
+          "awarder": "A Coruña University",
+          "date": "June 1999",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://udc.es"
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "nk6jnbnmslwqf4t0w8mlarlg",
+          "visible": true,
+          "name": "Neo4j Certified Professional",
+          "issuer": "Neo4j",
+          "date": "2025",
+          "summary": "Cypher Queries\nGraph Data Modeling\nData Loading\nGraph Use Cases",
+          "url": {
+            "label": "",
+            "href": "https://graphacademy.neo4j.com/c/ab612bf7-0970-4362-8398-63479a9fb7e7/"
+          }
+        },
+        {
+          "id": "n9ldve9idwm5kgco3l2t7e3i",
+          "visible": true,
+          "name": "Stratio Augmented Data Fabric Basics Certification",
+          "issuer": "Stratio",
+          "date": "2023",
+          "summary": "Platform Stratio\nAugmented Data Governance\nRocket analytical environment",
+          "url": {
+            "label": "",
+            "href": "https://training.stratio.com/admin/tool/lp/plan.php?id=8826"
+          }
+        },
+        {
+          "id": "kgdcetypz7e3uwy0ey7fjme7",
+          "visible": true,
+          "name": "BcU Certified Blockchain Ethereum Professional (CBEP)",
+          "issuer": "Blockchain United",
+          "date": "2019",
+          "summary": "Blockchain Smart contracts Working with the Ethereum platform\nDevelopment of DApps\nTokenomics",
+          "url": {
+            "label": "",
+            "href": "https://www.youracclaim.com/badges/c8d175ad-1698-4d0d-83c8-2d1d950e7277/public_url"
+          }
+        },
+        {
+          "id": "px4l7i4a3xn0b1jcp671fpe8",
+          "visible": true,
+          "name": "Scrum Master",
+          "issuer": "ScrumManager",
+          "date": "2019",
+          "summary": "Expert level",
+          "url": {
+            "label": "",
+            "href": "https://scrummanager.com/index.php/es/perfil-publico?id=27540"
+          }
+        },
+        {
+          "id": "n5xebvx2bfwqn3j1uucndgg7",
+          "visible": true,
+          "name": "Project Management Professional (PMP)",
+          "issuer": "Project Management Institute",
+          "date": "2009",
+          "summary": "Integrated management Scope, time, cost, quality, risk management, ...\nTeam management\nCommunications and stakeholder management",
+          "url": {
+            "label": "",
+            "href": "https://www.pmi.org/certifications/certification-resources/registry"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "hbabx2mz0j6fi1qusdt6baft",
+          "visible": true,
+          "institution": "University of A Coruña",
+          "studyType": "Engineer",
+          "area": "Computer Engineering",
+          "score": "",
+          "date": "2000-10-01 - 2003-06-30",
+          "summary": "<p>Final project about design of an ERP middleware</p>",
+          "url": {
+            "label": "",
+            "href": "https://udc.es"
+          }
+        },
+        {
+          "id": "wux1zjudbtzezx5szcywmm6e",
+          "visible": true,
+          "institution": "University of A Coruña",
+          "studyType": "Technical Engineer",
+          "area": "Technical Computer Engineering in Management",
+          "score": "",
+          "date": "1996-10-01 - 1999-06-30",
+          "summary": "<p>Final project about algorithm complexity automatic calculation</p>",
+          "url": {
+            "label": "",
+            "href": "https://udc.es"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "jw79d0bcdzz2lsec4wywjxs8",
+          "visible": true,
+          "company": "Altia",
+          "position": "Technology Strategy and Partnerships Manager",
+          "location": "Oleiros",
+          "date": "2023 - present",
+          "summary": "<ul><li><p>Member of the Global Risks Unit </p></li><li><p>Member of Innovation Laboratory Committee </p></li><li><p>Technology observatory and definition of the company's technology strategy</p></li><li><p>Management of partner relationships</p></li><li><p>Establishment of corporate architecture and development guidelines</p></li><li><p>Leadership of internal product evaluation team</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "c7x8zje3upd6jxuvi0vzb1s9",
+          "visible": true,
+          "company": "Altia",
+          "position": "Project and Program Manager",
+          "location": "Oleiros",
+          "date": "2006 - present",
+          "summary": "<ul><li><p>Management of development and maintenance projects, primarily in Java technologies </p></li><li><p>Management of system integration projects </p></li><li><p>Management of consulting projects </p></li><li><p>Management of solution implementation projects </p></li><li><p>Leadership of innovation projects </p></li><li><p>Collaboration in the evolution of the corporate process model </p></li><li><p>Collaboration in the implementation and certification of quality models</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "k8kdwzzkqxewqipcyj8bziy9",
+          "visible": true,
+          "company": "Altia",
+          "position": "Training Manager",
+          "location": "A Coruña",
+          "date": "2012 - 2017",
+          "summary": "<ul><li><p>Coordination of global training activities for the company </p></li><li><p>Collaboration in defining strategic training guidelines</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "q7w8lirjpmg0wst9ikrww9ha",
+          "visible": true,
+          "company": "Altia",
+          "position": "Analyst-Developer, Consultant",
+          "location": "A Coruña",
+          "date": "2004 - 2006",
+          "summary": "<ul><li><p>Development and maintenance projects for J2EE technology applications. </p></li><li><p>Strategic systems and security consulting</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "djr7zofjqk1y4oh7sp3gp1wp",
+          "visible": true,
+          "company": "GIG & La Milagrosa Gerontological Center",
+          "position": "Project Manager",
+          "location": "",
+          "date": "2003 - 2004",
+          "summary": "<ul><li><p>Led maintenance project for the Galician Social Inclusion Plan management system </p></li><li><p>Collaborated in R&amp;D&amp;i projects </p></li><li><p>Led development project for gerontological clinical record management</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://investigacion.udc.es/es/Research/Details/G00083"
+          }
+        },
+        {
+          "id": "k6441cwbtkqquqzpas6csf3b",
+          "visible": true,
+          "company": "Level Telecom",
+          "position": "Analyst-Programmer",
+          "location": "Santiago de Compostela",
+          "date": "1999 - 2000",
+          "summary": "<ul><li><p>Consulting for ERP implementation in the textile sector</p></li><li><p>Development of EDI integration components</p></li><li><p>Web maintenance</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "o0lpve5khwpr3yn2304p9s3z",
+          "visible": true,
+          "company": "A Coruña University",
+          "position": "Programmer. Systems Technician",
+          "location": "A Coruña",
+          "date": "1998 - 2002",
+          "summary": "<p>Intern at the University's Computing Center and IT department: </p><ul><li><p>Server installation and configuration </p></li><li><p>Web maintenance</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://udc.es"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "q90dvcr0udz1pvoll1x4dvie",
+          "visible": true,
+          "name": "Travel",
+          "keywords": [
+            "Backpacking",
+            "Nature exploration",
+            "Photography"
+          ]
+        },
+        {
+          "id": "f4o5x3id5odr7a4u1vfrnr5r",
+          "visible": true,
+          "name": "LLMs",
+          "keywords": [
+            "AI Agentic Coding",
+            "OSS Models",
+            "Agentic Architectures",
+            "GraphRAG"
+          ]
+        },
+        {
+          "id": "kfqucqgmx1bne6k7r8nkks6o",
+          "visible": true,
+          "name": "Domotics. Home Automation",
+          "keywords": [
+            "Openhab",
+            "ESP32",
+            "Z-Wave",
+            "SBCs",
+            "Raspberry Pi",
+            "Shinobi CCTV",
+            "Mqttwarn",
+            "AlarmServer"
+          ]
+        },
+        {
+          "id": "zj2ich2qvd3bfzunf10pyu6r",
+          "visible": true,
+          "name": "Homelabs",
+          "keywords": [
+            "Kubernetes",
+            "Helm",
+            "Self-hosted OSS",
+            "Proxmox",
+            "Calibre-web",
+            "Navidrome"
+          ]
+        },
+        {
+          "id": "oh3u6mrksbg29o5zv9a1qdwa",
+          "visible": true,
+          "name": "IaC. CI/CD. Automation",
+          "keywords": [
+            "Docker",
+            "Ansible",
+            "Terraform",
+            "Jenkins",
+            "Sonarqube",
+            "Airflow",
+            "ArgoCD"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "qdrgthpixxqyhp2y6fbl0e0l",
+          "visible": true,
+          "name": "Spanish",
+          "description": "Native",
+          "level": 5
+        },
+        {
+          "id": "jyy91ou0nldoyjom1k486gp7",
+          "visible": true,
+          "name": "English",
+          "description": "B2",
+          "level": 3
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "yagoemwg1m9v537d68andfw3",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "diegosouto",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/diegosouto"
+          }
+        },
+        {
+          "id": "pl2505rb85sifhr3c68rftpz",
+          "visible": true,
+          "network": "GitHub",
+          "username": "diegosc78",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/diegosc78"
+          }
+        },
+        {
+          "id": "xtzldhiih8uaeimmswcqwd1m",
+          "visible": true,
+          "network": "DockerHub",
+          "username": "ponte124",
+          "icon": "docker",
+          "url": {
+            "label": "",
+            "href": "https://hub.docker.com/u/ponte124"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": false,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "n56gpdlvy04f6gok3vs1000",
+          "visible": true,
+          "name": "MyAssistant: AI Chat app and agents for internal use",
+          "description": "Design and development of an AI chat application with agent capabilities for internal use within the company, integrating with various internal systems and databases to enhance productivity and information retrieval.",
+          "date": "2024",
+          "summary": "<p>Give quick access to valuable internal information.</p><p>Reduce human intervention in internal service desk.</p><p>Improve presales processes</p>",
+          "keywords": [
+            "LLMs",
+            "Qdrant",
+            "Langgraph",
+            "FastAPI",
+            "Typesense",
+            "Kubernetes",
+            "LiteLLM",
+            "Langfuse"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://myassistant.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1001",
+          "visible": true,
+          "name": "Development and implementation of a social bond management system.",
+          "description": "Design, development and implementation of a social bond management system for emergency food aid in a council, together with a supermarket chain as a collaborator, using a card.",
+          "date": "2021-2023",
+          "summary": "<p>Hundreds of people benefited from the system</p><p></p><p>Reduced human intervention and errors</p><p>Upscaling social services capacity for helping more people</p>",
+          "keywords": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "Hibernate",
+            "JPA",
+            "AWS",
+            "PostgreSQL",
+            "Linux",
+            "Tomcat",
+            "REST",
+            "Docker",
+            "AKS"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1002",
+          "visible": true,
+          "name": "Development of the Lugo Smart City initiative.",
+          "description": "Several subprojects, including e-administration, a citizen portal, citizen card upgrades, IoT and water energy management system, smart parking, GIS, OpenData portal, ...",
+          "date": "2018-2021",
+          "summary": "<p>Implemented a new citizen portal.</p><p>Upgraded the citizen card system to include new services.</p><p>Coordinated several IoT system deployments.</p><p>Deployed new servers and virtualization infrastructure.</p>",
+          "keywords": [
+            "vSphere",
+            "HPE",
+            "Java WebApps",
+            "Mercurio",
+            "Drupal",
+            "EcoMT",
+            "CKAN",
+            "Consul participation"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1003",
+          "visible": true,
+          "name": "Consulting for improving TIC area management processes and implementing a request management tool.",
+          "description": "IT Processes redesign. Implementation of a issue tracking and project management tool",
+          "date": "2017-2018",
+          "summary": "<p>Redefined IT processes for better efficiency</p><p>Implemented a robust issue tracking system</p>",
+          "keywords": [
+            "Redmine",
+            "ITIL"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1004",
+          "visible": true,
+          "name": "Technical support service in the construction and maintenance of dashboards, reports and indicators.",
+          "description": "Data Office service",
+          "date": "2017-2025",
+          "summary": "",
+          "keywords": [
+            "Pentaho",
+            "PowerBI",
+            "Airflow",
+            "NiFi",
+            "Superset",
+            "Kubernetes"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1005",
+          "visible": true,
+          "name": "Technology consulting for the security audit of the data network and ISP network.",
+          "description": "Audited hardened network and servers infrastructure",
+          "date": "2004",
+          "summary": "Detected several security issues for fixing",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1006",
+          "visible": true,
+          "name": "Support-maintenance service for multiple financial master systems.",
+          "description": "For one of the biggest multinational clothes retailers in the world",
+          "date": "2017-2018",
+          "summary": "<p>Leading corrective and evolutive maintenance for more than 20 master systems.</p><p>SLA management and reporting.</p><p>Drastically reduced data errors and incidents.</p><p>Service improvement through process industrialization.</p>",
+          "keywords": [
+            "Java",
+            "Spring",
+            "Hibernate",
+            "JDBC",
+            "GWT",
+            "AS400",
+            "SWT"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1007",
+          "visible": true,
+          "name": "SOA platform migration and support-maintenance.",
+          "description": "Implementation and subsequent support-maintenance of a SOA platform, mainly an Enterprise Service Bus (ESB). Includes also service availability, audit flows, failover, balancing, throttling, message routing, ...",
+          "date": "2016-2017",
+          "summary": "<p>Successfully migrated from Oracle Service Bus to WSO2.</p><p>.</p><p>Deployed new services for several consumer systems.</p>",
+          "keywords": [
+            "WSO2"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1008",
+          "visible": true,
+          "name": "Support-maintenance of several corporate systems.",
+          "description": "eLearning, surveys, inventory, endpoint agent, CRM, analytics dashboards, CI/CD...",
+          "date": "2017-2021",
+          "summary": "<p>Containerization. Migration to kubernetes.</p><p>Deploying and configuring new corporate systems.</p><p>Connected multiple systems through integrations, ETLs, synchronizations,....</p>",
+          "keywords": [
+            "Docker",
+            "Kubernetes",
+            "LimeSurvey",
+            "Moodle",
+            "OCSNG",
+            "SuiteCRM",
+            "SnipeIT",
+            "Metabase",
+            "Jenkins",
+            "Sonarqube",
+            "Nexus",
+            "ArgoCD",
+            "Dependency-track",
+            "Keycloak",
+            "Harbor"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1009",
+          "visible": true,
+          "name": "Development, layout and integrations of product portal and private area for order tracking.",
+          "description": "Marketing website and private area",
+          "date": "2020-2021",
+          "summary": "<p>Focus on Graphic Design and UX",
+          "keywords": [
+            "Drupal",
+            "PHP",
+            "MySQL",
+            "HTML5",
+            "CSS3"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1010",
+          "visible": true,
+          "name": "Development and implementation of the platform for Coruña Smart City.",
+          "description": "The whole platform included IoT, GIS, SSO, SOA, BI, OpenData,... ",
+          "date": "2013-2015",
+          "summary": "<p>A 3.5M€ project, included in a +11M€ program with more than 10 pilot projects integrated into platform.</p><p>Coordinated a big team of several companies integrating the platform components.</p>",
+          "keywords": [
+            "SOFIA2",
+            "Oracle Service Bus",
+            "ArcGIS Server",
+            "Java WebApps"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1011",
+          "visible": true,
+          "name": "Development-maintenance of a e-administration platform for public sector",
+          "description": "Evolutive maintenance of a big java web platform",
+          "date": "2004-2005",
+          "summary": "Designed and implemented new modules and integrations",
+          "keywords": [
+            "Java",
+            "JDBC",
+            "JSP",
+            "JSTL",
+            "SOAP",
+            "Oracle",
+            "Linux",
+            "Tomcat"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1012",
+          "visible": true,
+          "name": "Development and implementation of a provincial asset management platform.",
+          "description": "Big project involving asset management, work orders, maintenance plans, KPIs dashboards, GIS and a Smart City Platform",
+          "date": "2015-2016",
+          "summary": "<p>Whole project involved more than 150 people. I was project manager of asset management platform, KPIs dashboards and GIS integration..</p><p>Loaded more than 2.5M georeferenced assets.</p>",
+          "keywords": [
+            "Fama Systems",
+            "ArcGIS Server",
+            "Liferay",
+            "SOFIA2",
+            "eVidens"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1013",
+          "visible": true,
+          "name": "Development of a management system for VAT declarations to European tax agencies.",
+          "description": "Development of a management system for VAT declarations to European tax agencies, integrating client information and automating integration with tax agencies, both in immediate supply and in periodic declarations according to taxpayer calendar, through API and RPA.",
+          "date": "2020-2021",
+          "summary": "<p>Automated VAT declarations process</p><p>Reduced human intervention and errors</p>",
+          "keywords": [
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "Hibernate",
+            "JPA",
+            "Camunda",
+            "AWS",
+            "PostgreSQL",
+            "Linux",
+            "Tomcat",
+            "REST",
+            "UiPath"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1014",
+          "visible": true,
+          "name": "Evolution of the Mercurio electronic tendering system. Support for the process of publishing announcements, invitations, presentation of offers (including electronic sealing and sealing), management of openings by contracting tables, award, contract signing, contractor registration, etc. It is a product deployed on-premise and on-cloud (SaaS).",
+          "description": "Development and maintenance of an electronic tendering system.",
+          "date": "2011-2015",
+          "summary": "<p>Big public administrations as customers.</p><p>Hundreds millins of euros managed in tenders.</p><p>Focus in security, auditability and legal compliance.</p>",
+          "keywords": [
+            "Java",
+            "Hibernate",
+            "Spring",
+            "JSP",
+            "JSTL",
+            "SOAP",
+            "REST",
+            "Oracle",
+            "Linux",
+            "Tomcat",
+            "PKI",
+            "TSA",
+            "Secret Share"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1015",
+          "visible": true,
+          "name": "Development and implementation of a citizen card system. A multiservice system with more than 200,000 cards including electronic wallet services for transport, ORA, payment of fees, identification in libraries, in sports, ... covering the entire life cycle of the cards.",
+          "description": "Development and implementation of a citizen card system.",
+          "date": "2005-2010",
+          "summary": "<p>More than 200K cards issued.</p><p>More than 20M movements per year.</p><p>Full life cycle management including graphic and electronic personalization.</p><p>Managed economic intercompensation among several entities.</p>",
+          "keywords": [
+            "ISO7816",
+            "ISO14443B",
+            "Java",
+            "Hibernate",
+            "Struts",
+            "JSP",
+            "JSTL",
+            "SOAP",
+            "Oracle",
+            "Linux",
+            "Tomcat",
+            "C#",
+            "PC/SC",
+            "JasperReports"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        },
+        {
+          "id": "n56gpdlvy04f6gok3vs1016",
+          "visible": true,
+          "name": "Implementation and subsequent support-maintenance of an IoT and SOA platform for the industrial sector facilitating streaming and real-time event processing as well as service orchestration and API publication.",
+          "description": "Implementation and subsequent support-maintenance of an IoT and SOA platform.",
+          "date": "2020-2022",
+          "summary": "Deployed a full on-premise kubernetes platform, including ESB, Stream Processor, Message Broker, API Manager, ...",
+          "keywords": [
+            "WSO2",
+            "Kubernetes",
+            "RabbitMQ"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.altia.es"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "vklyj6b24xd3mejsllkt58zf",
+          "visible": false,
+          "name": "TECHNICAL SKILLS",
+          "description": "",
+          "level": 1,
+          "keywords": []
+        },
+        {
+          "id": "ahpwur3lj1viahwlezx8daez",
+          "visible": true,
+          "name": "Kubernetes",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Kubeadm",
+            "Helm",
+            "Harbor",
+            "Prometheus",
+            "MetalLB",
+            "Bare-Metal"
+          ]
+        },
+        {
+          "id": "rwl371vwalwvau8ov5rjz8zc",
+          "visible": true,
+          "name": "Linux",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Debian/Ubuntu",
+            "Bash Scripting",
+            "Services",
+            "SysAdmin"
+          ]
+        },
+        {
+          "id": "dld3wg3awlgohhpqd07ap9we",
+          "visible": true,
+          "name": "LLMs",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "OpenAI API",
+            "RAG",
+            "Langgraph",
+            "LiteLLM",
+            "Langfuse",
+            "Inference Runtimes",
+            "Prompt Engineering",
+            "Qdrant"
+          ]
+        },
+        {
+          "id": "gmphq8woovowm8e0n7a5fcmq",
+          "visible": true,
+          "name": "IoT",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Smart City Platform",
+            "Mashups",
+            "OpenData",
+            "GIS",
+            "IoT Gateways/Nodes"
+          ]
+        },
+        {
+          "id": "azxucrjvp1mdzqjlvh3bs56d",
+          "visible": true,
+          "name": "EAI-SOA",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "ESB",
+            "Message Brokers",
+            "API Management",
+            "Microservices",
+            "Event-Driven Architecture"
+          ]
+        },
+        {
+          "id": "nkb8z9f4zx9rciagjeidg3zh",
+          "visible": true,
+          "name": "Backend Development",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "Java",
+            "Hibernate",
+            "Spring/Spring Boot",
+            "Maven",
+            "JPA",
+            "Node.js",
+            "Express.js",
+            "Python",
+            "FastAPI"
+          ]
+        },
+        {
+          "id": "bu7rge1jzjylrdv0op0okovb",
+          "visible": true,
+          "name": "Frontend Development",
+          "description": "",
+          "level": 2,
+          "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "JSP/Servlets/JSTL",
+            "Struts"
+          ]
+        },
+        {
+          "id": "lf5hxqpydve66c5g1j8oz10r",
+          "visible": true,
+          "name": "Smart Cards",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "PC/SC",
+            "APDUs",
+            "PKI"
+          ]
+        },
+        {
+          "id": "jbah0pvnlwmqlpspea69kx84",
+          "visible": true,
+          "name": "Project management & DevOps",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Redmine",
+            "JIRA",
+            "Microsoft Project",
+            "Jenkins",
+            "Sonarqube",
+            "ArgoCD",
+            "Nexus Repository",
+            "Dependency-track",
+            "Git",
+            "SVN"
+          ]
+        },
+        {
+          "id": "umoytvwsnkcjrewzdiral551",
+          "visible": false,
+          "name": "SOFT SKILLS",
+          "description": "",
+          "level": 1,
+          "keywords": []
+        },
+        {
+          "id": "c9ztttk9lj9qmcjodg75adzu",
+          "visible": true,
+          "name": "Organization",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Prioritized planning",
+            "Team management"
+          ]
+        },
+        {
+          "id": "x3ophzycfavsg4p12lc0ajui",
+          "visible": true,
+          "name": "Communication",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Assessment",
+            "Assertive listening",
+            "Power selling",
+            "Negotiation",
+            "Teaching skills"
+          ]
+        },
+        {
+          "id": "z4tgzhumxjenpv7rjaapunsm",
+          "visible": true,
+          "name": "Leadership",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Motivation. Passion",
+            "Example setting",
+            "Consensus building",
+            "Decision making",
+            "Hiring & Performance Reviews",
+            "Mentoring"
+          ]
+        },
+        {
+          "id": "ercaewg5ss8obzjcx6pppoz0",
+          "visible": true,
+          "name": "Project management",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "PMP",
+            "SCRUM",
+            "ITIL",
+            "CMMI",
+            "Product Manager",
+            "Roadmap Planning & Delivery"
+          ]
+        },
+        {
+          "id": "ianm3znopyfbabkmnilubant",
+          "visible": true,
+          "name": "Proactivity",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Proactive planning",
+            "Anticipating needs",
+            "Taking initiative",
+            "Risk management"
+          ]
+        },
+        {
+          "id": "funqmzo044g9jilmxhzf9tun",
+          "visible": true,
+          "name": "Continuous Improvement",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "PDCA",
+            "Lean",
+            "Teamplating",
+            "Process Industrialization",
+            "Automation"
+          ]
+        },
+        {
+          "id": "jbhrvstxme8brvhjh4xoi0sx",
+          "visible": true,
+          "name": "Customer Orientation",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Empathy",
+            "Customer needs assessment",
+            "Business development",
+            "User experience",
+            "Service design",
+            "SLA management"
+          ]
+        },
+        {
+          "id": "ec7vrpz91pelyv79aa83oogd",
+          "visible": true,
+          "name": "Team Player",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Altruism",
+            "Collaboration",
+            "Adaptability"
+          ]
+        },
+        {
+          "id": "gm8hbkwuww8kjkb8gorbhf8q",
+          "visible": true,
+          "name": "Continuous Learning",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "Self-directed learning",
+            "Adaptability",
+            "Curiosity",
+            "Perseverance",
+            "Growth mindset"
+          ]
+        }
+      ]
+    },
+    "custom": {
+      "ayarheiigmm4mnlgdtmbusvv": {
+        "name": "Courses",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "ayarheiigmm4mnlgdtmbusvv",
+        "items": [
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo62",
+            "visible": true,
+            "name": "Project Management and Planning. Ms Project 2000",
+            "description": "",
+            "date": "2003-01-17",
+            "location": "Univesidad de A Coruña",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo63",
+            "visible": true,
+            "name": "Electronic Signature and Digital Certificates in Public Administration",
+            "description": "",
+            "date": "2004-04-26",
+            "location": "Escuela para las administraciones públicas CaixaNova",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo64",
+            "visible": true,
+            "name": "Introduction to the CMMI Model",
+            "description": "",
+            "date": "2008-03-31",
+            "location": "Ideas Posibles SL",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo65",
+            "visible": true,
+            "name": "ITIL Fundamentals",
+            "description": "",
+            "date": "2008-03-31",
+            "location": "Ideas Posibles SL",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo66",
+            "visible": true,
+            "name": "Information Systems Project Management",
+            "description": "",
+            "date": "2008-03-31",
+            "location": "Ideas Posibles SL",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo67",
+            "visible": true,
+            "name": "European Project Management",
+            "description": "",
+            "date": "2008-05-08",
+            "location": "Método Consultores",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo68",
+            "visible": true,
+            "name": "International Certifications. Project Management",
+            "description": "",
+            "date": "2008-11-28",
+            "location": "Método Consultores",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo69",
+            "visible": true,
+            "name": "Customer Satisfaction. Product-Service Management",
+            "description": "",
+            "date": "2009-02-24",
+            "location": "Learning innova",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo70",
+            "visible": true,
+            "name": "E-commerce",
+            "description": "",
+            "date": "2010-01-02",
+            "location": "Recol Networks SA",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo71",
+            "visible": true,
+            "name": "Information Security Management Systems according to ISO 27001",
+            "description": "",
+            "date": "2010-03-27",
+            "location": "Inteco",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo72",
+            "visible": true,
+            "name": "Introduction to Big Data",
+            "description": "",
+            "date": "2012-12-13",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo73",
+            "visible": true,
+            "name": "Communication and Leadership",
+            "description": "",
+            "date": "2013-09-25",
+            "location": "Plan Future",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo74",
+            "visible": true,
+            "name": "Standard CMMI Appraisal Method for Process Improvement",
+            "description": "",
+            "date": "2014-12-10",
+            "location": "European Software Institute consulting (ESI)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo75",
+            "visible": true,
+            "name": "Agile IT Project Management with Scrum, Scrumban, and Lean Software",
+            "description": "",
+            "date": "2015-02-07",
+            "location": "Vitae Consultores",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo76",
+            "visible": true,
+            "name": "Leadership and Management of High-Performance Teams",
+            "description": "",
+            "date": "2015-10-27",
+            "location": "Universidad Europea de Madrid (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo77",
+            "visible": true,
+            "name": "Leadership in Times of Change",
+            "description": "",
+            "date": "2015-11-08",
+            "location": "Universitas Telefónica (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo78",
+            "visible": true,
+            "name": "Effective Presentations 5th Edition",
+            "description": "",
+            "date": "2015-11-09",
+            "location": "Universidad de Cantabria (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo79",
+            "visible": true,
+            "name": "Containers. Introduction to Docker",
+            "description": "",
+            "date": "2016-02-15",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo80",
+            "visible": true,
+            "name": "Development of Personal Skills in Project Management, Change Management",
+            "description": "",
+            "date": "2016-02-27",
+            "location": "Vitae Consultores",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo81",
+            "visible": true,
+            "name": "Web Scale Applications",
+            "description": "",
+            "date": "2016-03-13",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo82",
+            "visible": true,
+            "name": "Agility and Lean. Managing 21st Century Projects and Businesses",
+            "description": "",
+            "date": "2016-04-12",
+            "location": "Universidad Rey Juan Carlos (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo83",
+            "visible": true,
+            "name": "Big Data, the Added Value of Data in Your Business",
+            "description": "",
+            "date": "2016-05-12",
+            "location": "Universidad Católica de Murcia (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo84",
+            "visible": true,
+            "name": "Introduction to Data Processing with R and RStudio",
+            "description": "",
+            "date": "2016-10-31",
+            "location": "Universitat de les Illes Balears (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo85",
+            "visible": true,
+            "name": "Application Deployment with Docker",
+            "description": "",
+            "date": "2017-04-28",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo86",
+            "visible": true,
+            "name": "Big Data for a Smart City",
+            "description": "",
+            "date": "2017-05-08",
+            "location": "Universidad Politécnica de Madrid (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo87",
+            "visible": true,
+            "name": "Introduction to Machine Learning",
+            "description": "",
+            "date": "2017-10-17",
+            "location": "Universitas Telefónica (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo88",
+            "visible": true,
+            "name": "Big Data. Introduction to Spark",
+            "description": "",
+            "date": "2017-11-24",
+            "location": "Centro de Supercomputación de Galicia (CESGA)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo89",
+            "visible": true,
+            "name": "Business Opportunities for the Internet of Things",
+            "description": "",
+            "date": "2018-02-24",
+            "location": "Universidad Tecnológica de Chile - INACAP (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo90",
+            "visible": true,
+            "name": "Design Thinking for Everyone",
+            "description": "",
+            "date": "2018-03-08",
+            "location": "Universidad Politécnica de Madrid (a través de MiriadaX)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo91",
+            "visible": true,
+            "name": "Management, Leadership and Business Development",
+            "description": "",
+            "date": "2018-04-03",
+            "location": "MRC International training",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo92",
+            "visible": true,
+            "name": "BcU Certified Blockchain Ethereum Professional",
+            "description": "",
+            "date": "2019-04-10",
+            "location": "Brightest",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo93",
+            "visible": true,
+            "name": "Microservices DevOps with Red Hat OpenShift",
+            "description": "",
+            "date": "2019-06-13",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo94",
+            "visible": true,
+            "name": "Scrum Manager",
+            "description": "",
+            "date": "2019-09-05",
+            "location": "European Business Factory",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo95",
+            "visible": true,
+            "name": "The Art of Selection",
+            "description": "",
+            "date": "2020-04-24",
+            "location": "Altia",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo96",
+            "visible": true,
+            "name": "Data Security and Protection",
+            "description": "",
+            "date": "2020-05-19",
+            "location": "Altia",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo97",
+            "visible": true,
+            "name": "Agile Project Portfolio Management",
+            "description": "",
+            "date": "2022-11-17",
+            "location": "Centro de Novas Tecnoloxías de Galicia (CNTG)",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo98",
+            "visible": true,
+            "name": "Kubernetes. Automation, Scaling and Application Management in Containers",
+            "description": "",
+            "date": "2020-11-30",
+            "location": "Altia",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzlo99",
+            "visible": true,
+            "name": "ITIL 4 Strategist. Direct, Plan and Improve",
+            "description": "",
+            "date": "2021-04-26",
+            "location": "Altia",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl100",
+            "visible": true,
+            "name": "Big Data and Digital Transformation",
+            "description": "",
+            "date": "2022-07-26",
+            "location": "Formadores IT",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl101",
+            "visible": true,
+            "name": "Introduction to Artificial Intelligence",
+            "description": "",
+            "date": "2022-09-02",
+            "location": "Formadores IT",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl102",
+            "visible": true,
+            "name": "Artificial Intelligence Applied to Business",
+            "description": "",
+            "date": "2022-11-17",
+            "location": "ATU",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl103",
+            "visible": true,
+            "name": "Python for Data Science and Machine Learning Bootcamp",
+            "description": "",
+            "date": "2022-12-08",
+            "location": "UDEMY",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl104",
+            "visible": true,
+            "name": "Applied Machine Learning using Python",
+            "description": "",
+            "date": "2022-12-02",
+            "location": "CEINPRO",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl105",
+            "visible": true,
+            "name": "Google Project Management Professional Certificate",
+            "description": "",
+            "date": "2023-11-24",
+            "location": "Google",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl106",
+            "visible": true,
+            "name": "Stratio Augmented Data Fabric Basics Certification",
+            "description": "",
+            "date": "2023-11-07",
+            "location": "Stratio",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl107",
+            "visible": true,
+            "name": "Data Analysis and Visualization with Excel and PowerBI",
+            "description": "",
+            "date": "2024-03-27",
+            "location": "Centro de Desarrollo de Competencias Digitales de Castilla-La Mancha",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl108",
+            "visible": true,
+            "name": "Advanced Program in Agile Project Management. SCRUM",
+            "description": "",
+            "date": "2024-05-27",
+            "location": "Consellería de emprego, comercio e emigración",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": "https://conselleriaemprego.xunta.gal/"
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl109",
+            "visible": true,
+            "name": "Leaders of the Future",
+            "description": "",
+            "date": "2025-09-04",
+            "location": "ThePowerMBA",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": "https://www.thepowermba.com/"
+            }
+          },
+          {
+            "id": "o8f82cbym85hcd0b9mfzl110",
+            "visible": true,
+            "name": "Neo4j Certified Professional",
+            "description": "",
+            "date": "2025-09-07",
+            "location": "GraphAcademy",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": "https://graphacademy.neo4j.com/"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "education",
+          "experience",
+          "projects",
+          "certifications",
+          "custom.ayarheiigmm4mnlgdtmbusvv",
+          "volunteer",
+          "interests",
+          "references"
+        ],
+        [
+          "skills",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 16,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#2563eb"
+    },
+    "typography": {
+      "font": {
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}

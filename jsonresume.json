@@ -2,10 +2,10 @@
   "basics": {
     "name": "Diego Souto Catoira",
     "label": "Program Manager. Head of Technology Strategy & Partnerships at Altia",
-    "picture": "https://diegosouto.duckdns.org/authors/admin/avatar.jpg",
+    "picture": "https://github.com/diegosc78/diegosc78.github.io/blob/master/hugo24/content/authors/admin/avatar.jpg?raw=true",
     "email": "dsoutoc@mailfence.com",
     "phone": "+34 654598409",
-    "website": "https://diegosouto.duckdns.org",
+    "website": "https://diegosc78.github.io",
     "summary": "Experienced Program Manager at Altia with a proven track record in diverse projects including consulting, software development, system implementation, and support-maintenance. Currently, I focus on advising, pre-sales, and developing value propositions. I actively contribute to internal company improvement processes, spanning quality, technology, and strategy. I also collaborate transversally within Altia Group's Global Risks Unit and serve as Head of Technology Strategy and Partnerships within Altia's Technology Directorate. My past transversal roles include corporate tools, training management, and process improvement. I am committed to continuous learning and strive to instill values of professionalism, responsibility, and dedication to excellence in my teams.",
     "location": {
       "address": "",
@@ -21,11 +21,6 @@
         "url": "https://www.linkedin.com/in/diegosouto"
       },
       {
-        "network": "Bitbucket",
-        "username": "diegosc78",
-        "url": "https://bitbucket.org/diegosc78"
-      },
-      {
         "network": "GitHub",
         "username": "diegosc78",
         "url": "https://github.com/diegosc78"
@@ -36,8 +31,8 @@
         "url": "https://hub.docker.com/u/ponte124"
       }
     ],
-    "url": "https://diegosouto.duckdns.org",
-    "image": "https://diegosouto.duckdns.org/authors/admin/avatar.jpg"
+    "url": "https://diegosc78.github.io",
+    "image": "https://github.com/diegosc78/diegosc78.github.io/blob/master/hugo24/content/authors/admin/avatar.jpg?raw=true"
   },
   "work": [
     {
@@ -101,7 +96,8 @@
         "Made software to last; some systems active for more than 15 years"
       ],
       "name": "Altia",
-      "location": "A Coruña"
+      "location": "A Coruña",
+      "url": "https://www.altia.es"
     },
     {
       "company": "GIG and La Milagrosa Gerontological Center",
@@ -112,7 +108,7 @@
       "highlights": [
         "Satisfied of making software for helping vulnerable people"
       ],
-      "name": "GIGG & La Milagrosa Gerontological Center",
+      "name": "GIG & La Milagrosa Gerontological Center",
       "location": "A Coruña",
       "url": "https://investigacion.udc.es/es/Research/Details/G00083"
     },
@@ -483,7 +479,7 @@
       ],
       "keywords": ["LLMs", "Qdrant", "Langgraph", "FastAPI", "Typesense", "Kubernetes", "LiteLLM", "Langfuse"],
       "startDate": "2024",
-      "url": "https://www.altia.es",
+      "url": "https://myassistant.altia.es",
       "roles": [
         "Project Manager"
       ]

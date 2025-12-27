@@ -7,14 +7,13 @@ tags:
 - LLMs
 - RAG
 - Tools MCP
-- IA
 - Agentes IA
 - SOA
 - Observabilidad
 - Contenedores
 - Kubernetes
-date: "2021-09-01T00:00:00Z"
-external_link: ""
+date: "2024-09-01T00:00:00Z"
+external_link: "https://myassistant.altia.es"
 image:
   caption: ""
   focal_point: Smart

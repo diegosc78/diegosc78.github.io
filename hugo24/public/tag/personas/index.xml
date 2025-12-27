@@ -1,141 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Personas | Diego Souto</title>
-    <link>http://localhost:1313/tag/personas/</link>
-      <atom:link href="http://localhost:1313/tag/personas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Personas</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
-      <title>Personas</title>
-      <link>http://localhost:1313/tag/personas/</link>
-    </image>
-    
-    <item>
-      <title>Líderes del futuro</title>
-      <link>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/202510_powermba_lideresdelfuturo/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: ThePowerMBA&lt;/li&gt;
-&lt;li&gt;Fecha: 2025-10&lt;/li&gt;
-&lt;li&gt;Duración: 91h&lt;/li&gt;
-&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Leading and managing people&lt;/li&gt;
-&lt;li&gt;Leading organizations&lt;/li&gt;
-&lt;li&gt;Innovation and agile mindset&lt;/li&gt;
-&lt;li&gt;Business model innovation&lt;/li&gt;
-&lt;li&gt;Business and marketing strategies&lt;/li&gt;
-&lt;li&gt;Power selling&lt;/li&gt;
-&lt;li&gt;Finance and accounting&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>El arte de la selección</title>
-      <link>http://localhost:1313/publication/202004_altia_arteseleccion/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/202004_altia_arteseleccion/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Altia&lt;/li&gt;
-&lt;li&gt;Fecha: 2020-04&lt;/li&gt;
-&lt;li&gt;Duración: 5h&lt;/li&gt;
-&lt;li&gt;Modalidad: online&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;¿Cómo identificar al candidato idóneo?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Técnicas y herramientas aplicadas a la gestión de proyectos. Edición 2</title>
-      <link>http://localhost:1313/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos.-edicion-2/</link>
-      <pubDate>Mon, 28 May 2018 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos.-edicion-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dirección, liderazgo y desarrollo de negocio</title>
-      <link>http://localhost:1313/publication/201804_mrc_direccionliderazgo/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201804_mrc_direccionliderazgo/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: MRC International training&lt;/li&gt;
-&lt;li&gt;Fecha: 2018-04&lt;/li&gt;
-&lt;li&gt;Duración: 32h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Técnicas y herramientas aplicadas a la gestión de proyectos</title>
-      <link>http://localhost:1313/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos/</link>
-      <pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Desarrollo de habilidades personales en la dirección y gestión de proyectos, la gestión del cambio</title>
-      <link>http://localhost:1313/publication/201602_vit_gestioncambio/</link>
-      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201602_vit_gestioncambio/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Vitae Consultores&lt;/li&gt;
-&lt;li&gt;Fecha: 2016-02&lt;/li&gt;
-&lt;li&gt;Duración: 10h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Liderazgo en tiempos de cambio</title>
-      <link>http://localhost:1313/publication/201511_tlf_liderazgo/</link>
-      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201511_tlf_liderazgo/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Universitas Telefónica (a través de MiriadaX)&lt;/li&gt;
-&lt;li&gt;Fecha: 2015-11&lt;/li&gt;
-&lt;li&gt;Duración: 10h&lt;/li&gt;
-&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Liderazgo y gestión de equipos de alto rendimiento</title>
-      <link>http://localhost:1313/publication/201510_uem_liderazgo/</link>
-      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201510_uem_liderazgo/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Universidad Europea de Madrid (a través de MiriadaX)&lt;/li&gt;
-&lt;li&gt;Fecha: 2015-10&lt;/li&gt;
-&lt;li&gt;Duración: 25h&lt;/li&gt;
-&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personas | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/personas/</link><atom:link href="https://diegosouto.duckdns.org/tag/personas/index.xml" rel="self" type="application/rss+xml"/><description>Personas</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Personas</title><link>https://diegosouto.duckdns.org/tag/personas/</link></image><item><title>Líderes del futuro</title><link>https://diegosouto.duckdns.org/publication/202510_powermba_lideresdelfuturo/</link><pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/202510_powermba_lideresdelfuturo/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: ThePowerMBA&lt;/li>
+&lt;li>Fecha: 2025-10&lt;/li>
+&lt;li>Duración: 91h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;ul>
+&lt;li>Leading and managing people&lt;/li>
+&lt;li>Leading organizations&lt;/li>
+&lt;li>Innovation and agile mindset&lt;/li>
+&lt;li>Business model innovation&lt;/li>
+&lt;li>Business and marketing strategies&lt;/li>
+&lt;li>Power selling&lt;/li>
+&lt;li>Finance and accounting&lt;/li>
+&lt;/ul></description></item><item><title>El arte de la selección</title><link>https://diegosouto.duckdns.org/publication/202004_altia_arteseleccion/</link><pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/202004_altia_arteseleccion/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Altia&lt;/li>
+&lt;li>Fecha: 2020-04&lt;/li>
+&lt;li>Duración: 5h&lt;/li>
+&lt;li>Modalidad: online&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;ul>
+&lt;li>¿Cómo identificar al candidato idóneo?&lt;/li>
+&lt;/ul></description></item><item><title>Técnicas y herramientas aplicadas a la gestión de proyectos. Edición 2</title><link>https://diegosouto.duckdns.org/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos.-edicion-2/</link><pubDate>Mon, 28 May 2018 08:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos.-edicion-2/</guid><description/></item><item><title>Dirección, liderazgo y desarrollo de negocio</title><link>https://diegosouto.duckdns.org/publication/201804_mrc_direccionliderazgo/</link><pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201804_mrc_direccionliderazgo/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: MRC International training&lt;/li>
+&lt;li>Fecha: 2018-04&lt;/li>
+&lt;li>Duración: 32h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Técnicas y herramientas aplicadas a la gestión de proyectos</title><link>https://diegosouto.duckdns.org/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos/</link><pubDate>Mon, 26 Feb 2018 08:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/talk/tecnicas-y-herramientas-aplicadas-a-la-gestion-de-proyectos/</guid><description/></item><item><title>Desarrollo de habilidades personales en la dirección y gestión de proyectos, la gestión del cambio</title><link>https://diegosouto.duckdns.org/publication/201602_vit_gestioncambio/</link><pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201602_vit_gestioncambio/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Vitae Consultores&lt;/li>
+&lt;li>Fecha: 2016-02&lt;/li>
+&lt;li>Duración: 10h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Liderazgo en tiempos de cambio</title><link>https://diegosouto.duckdns.org/publication/201511_tlf_liderazgo/</link><pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201511_tlf_liderazgo/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Universitas Telefónica (a través de MiriadaX)&lt;/li>
+&lt;li>Fecha: 2015-11&lt;/li>
+&lt;li>Duración: 10h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Liderazgo y gestión de equipos de alto rendimiento</title><link>https://diegosouto.duckdns.org/publication/201510_uem_liderazgo/</link><pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201510_uem_liderazgo/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Universidad Europea de Madrid (a través de MiriadaX)&lt;/li>
+&lt;li>Fecha: 2015-10&lt;/li>
+&lt;li>Duración: 25h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>

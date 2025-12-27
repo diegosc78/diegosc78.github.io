@@ -75,7 +75,7 @@ sections:
             * Mantenimiento de webs
           location: A Coruña
           title: Programador. Técnico de sistemas
-        - company: GIGG y Centro Gerontológico La Milagrosa
+        - company: GIG y Centro Gerontológico La Milagrosa
           company_url: "http://gerontologia.udc.es/"
           company_logo: org-milagrosa
           date_start: "2003-06-15"

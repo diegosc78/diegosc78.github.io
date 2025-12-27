@@ -157,9 +157,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/diegosouto
-  - icon: bitbucket
-    icon_pack: fab
-    link: https://bitbucket.org/diegosc78
   - icon: github
     icon_pack: fab
     link: https://github.com/diegosc78

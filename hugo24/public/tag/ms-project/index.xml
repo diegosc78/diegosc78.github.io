@@ -1,32 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ms Project | Diego Souto</title>
-    <link>http://localhost:1313/tag/ms-project/</link>
-      <atom:link href="http://localhost:1313/tag/ms-project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ms Project</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 17 Jan 2003 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
-      <title>Ms Project</title>
-      <link>http://localhost:1313/tag/ms-project/</link>
-    </image>
-    
-    <item>
-      <title>Gestión y planificacion de proyectos. Ms Project 2000</title>
-      <link>http://localhost:1313/publication/200301_udc_gprjsconmsproject2000/</link>
-      <pubDate>Fri, 17 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/200301_udc_gprjsconmsproject2000/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Univesidad de A Coruña&lt;/li&gt;
-&lt;li&gt;Fecha: 2003-01&lt;/li&gt;
-&lt;li&gt;Duración: 20h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ms Project | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/ms-project/</link><atom:link href="https://diegosouto.duckdns.org/tag/ms-project/index.xml" rel="self" type="application/rss+xml"/><description>Ms Project</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 17 Jan 2003 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Ms Project</title><link>https://diegosouto.duckdns.org/tag/ms-project/</link></image><item><title>Gestión y planificacion de proyectos. Ms Project 2000</title><link>https://diegosouto.duckdns.org/publication/200301_udc_gprjsconmsproject2000/</link><pubDate>Fri, 17 Jan 2003 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/200301_udc_gprjsconmsproject2000/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Univesidad de A Coruña&lt;/li>
+&lt;li>Fecha: 2003-01&lt;/li>
+&lt;li>Duración: 20h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>

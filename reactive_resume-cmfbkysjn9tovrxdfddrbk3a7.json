@@ -1,14 +1,14 @@
 {
   "basics": {
     "url": {
-      "href": "https://diegosouto.duckdns.org",
+      "href": "https://diegosc78.github.io",
       "label": ""
     },
     "name": "Diego Souto Catoira",
     "email": "dsoutoc@mailfence.com",
     "phone": "+34 654598409",
     "picture": {
-      "url": "https://diegosouto.duckdns.org/authors/admin/avatar.jpg",
+      "url": "https://github.com/diegosc78/diegosc78.github.io/blob/master/hugo24/content/authors/admin/avatar.jpg?raw=true",
       "size": 64,
       "effects": {
         "border": false,
@@ -1105,17 +1105,6 @@
           "username": "diegosouto"
         },
         {
-          "id": "sb7dz50wgkccf9htj4lu0j6c",
-          "url": {
-            "href": "https://bitbucket.org/diegosc78",
-            "label": ""
-          },
-          "icon": "bitbucket",
-          "network": "Bitbucket",
-          "visible": true,
-          "username": "diegosc78"
-        },
-        {
           "id": "pl2505rb85sifhr3c68rftpz",
           "url": {
             "href": "https://github.com/diegosc78",
@@ -1165,7 +1154,7 @@
           "date": "2024",
           "url": {
             "label": "",
-            "href": "https://www.altia.es"
+            "href": "https://myassistant.altia.es"
           }
         },
         {
@@ -1710,7 +1699,7 @@
         {
           "id": "djr7zofjqk1y4oh7sp3gp1wp",
           "visible": true,
-          "company": "GIGG & La Milagrosa Gerontological Center",
+          "company": "GIG & La Milagrosa Gerontological Center",
           "position": "Project Manager",
           "location": "",
           "date": "2003 - 2004",

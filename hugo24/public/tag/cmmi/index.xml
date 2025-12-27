@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CMMI | Diego Souto</title>
-    <link>http://localhost:1313/tag/cmmi/</link>
-      <atom:link href="http://localhost:1313/tag/cmmi/index.xml" rel="self" type="application/rss+xml" />
-    <description>CMMI</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 10 Dec 2014 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
-      <title>CMMI</title>
-      <link>http://localhost:1313/tag/cmmi/</link>
-    </image>
-    
-    <item>
-      <title>Standard CMMI Appraisal Method for Process Improvement</title>
-      <link>http://localhost:1313/publication/201414_esi_cmmiappraisal/</link>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201414_esi_cmmiappraisal/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: European Software Institute consulting (ESI)&lt;/li&gt;
-&lt;li&gt;Fecha: 2014-12&lt;/li&gt;
-&lt;li&gt;Duración: 8h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introducción al modelo CMMI</title>
-      <link>http://localhost:1313/publication/200803_ips_cmmi/</link>
-      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/200803_ips_cmmi/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Ideas Posibles SL&lt;/li&gt;
-&lt;li&gt;Fecha: 2008-03&lt;/li&gt;
-&lt;li&gt;Duración: 50h&lt;/li&gt;
-&lt;li&gt;Modalidad: teleformación&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CMMI | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/cmmi/</link><atom:link href="https://diegosouto.duckdns.org/tag/cmmi/index.xml" rel="self" type="application/rss+xml"/><description>CMMI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 10 Dec 2014 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>CMMI</title><link>https://diegosouto.duckdns.org/tag/cmmi/</link></image><item><title>Standard CMMI Appraisal Method for Process Improvement</title><link>https://diegosouto.duckdns.org/publication/201414_esi_cmmiappraisal/</link><pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201414_esi_cmmiappraisal/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: European Software Institute consulting (ESI)&lt;/li>
+&lt;li>Fecha: 2014-12&lt;/li>
+&lt;li>Duración: 8h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Introducción al modelo CMMI</title><link>https://diegosouto.duckdns.org/publication/200803_ips_cmmi/</link><pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/200803_ips_cmmi/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Ideas Posibles SL&lt;/li>
+&lt;li>Fecha: 2008-03&lt;/li>
+&lt;li>Duración: 50h&lt;/li>
+&lt;li>Modalidad: teleformación&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>

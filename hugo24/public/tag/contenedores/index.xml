@@ -1,331 +1,209 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contenedores | Diego Souto</title>
-    <link>http://localhost:1313/tag/contenedores/</link>
-      <atom:link href="http://localhost:1313/tag/contenedores/index.xml" rel="self" type="application/rss+xml" />
-    <description>Contenedores</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url>
-      <title>Contenedores</title>
-      <link>http://localhost:1313/tag/contenedores/</link>
-    </image>
-    
-    <item>
-      <title>Laboratorio casero de Kubernetes</title>
-      <link>http://localhost:1313/post/k8shomelab/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/k8shomelab/</guid>
-      <description>&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Resiliencia. Aguanta caídas de nodos o aplicaciones, reiniciándose o moviendo cargas a otros nodos&lt;/li&gt;
-&lt;li&gt;Escalabilidad. Tanto física (añadir más nodos) como lógica (añadir más réplicas, productos, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Observabilidad. Métricas hardware, infra y software.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
-&lt;p&gt;En mi caso:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1 raspberry 4GB&lt;/li&gt;
-&lt;li&gt;2 raspberry 8GB&lt;/li&gt;
-&lt;li&gt;1 rock64 4GB&lt;/li&gt;
-&lt;li&gt;1 intel celeron 5000&lt;/li&gt;
-&lt;li&gt;1 intel celeron n100&lt;/li&gt;
-&lt;li&gt;2 SSDs&lt;/li&gt;
-&lt;li&gt;Switch 8 puertos, cables, envolventes, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;1 SAI&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
-&lt;p&gt;En mi caso, entre otras cosas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Web personal&lt;/li&gt;
-&lt;li&gt;Servidor de música&lt;/li&gt;
-&lt;li&gt;Servidor de fotos&lt;/li&gt;
-&lt;li&gt;Domótica de casa&lt;/li&gt;
-&lt;li&gt;Videovigilancia&lt;/li&gt;
-&lt;li&gt;Ingesta de datos (scrappers, rpa, conectores servicios web externos, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Mensajería asíncrona (bus de eventos usado por ingesta, domótica, alertas, monitorización)&lt;/li&gt;
-&lt;li&gt;Alertas (mail, telegram, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Infra software: registry, monitorización, dns filtrado, balanceador, &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;principales-retos&#34;&gt;Principales retos&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Multi-arquitectura. No todo está preparado para esto. Se han requerido varias adaptaciones para acomodar nodos intel y arm en el mismo cluster.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;principales-limitaciones&#34;&gt;Principales limitaciones&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Hay puntos únicos de fallo; por ejemplo, un nodo tiene un dongle USB Zwave. Eso limita las poisibilidades de redespliegue en caliente en otro nodo.&lt;/li&gt;
-&lt;li&gt;Potencia. No se le pueden pedir milagros a las raspberries, ni en CPU ni en memoria.&lt;/li&gt;
-&lt;li&gt;Almacenamiento distribuido. Algún repositorio es masivo y no puede ser distribuido (con los recursos hardware que tengo).&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MyAssistant. Chat IA y agentes inteligentes</title>
-      <link>http://localhost:1313/project/2024_myassistant/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2024_myassistant/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Descripción:&lt;/strong&gt; Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo-mantenimiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en producción, pero todavía en fuerte evolución&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; interno&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gestión de conocimiento corporativo. Service Desk. Preventa.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes. Automatización de la implementación, el escalado y la administración de aplicaciones en contenedores</title>
-      <link>http://localhost:1313/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</link>
-      <pubDate>Mon, 30 Nov 2020 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes. Automatización, escalado y administración de aplicaciones en contenedores</title>
-      <link>http://localhost:1313/publication/202012_altia_k8s/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/202012_altia_k8s/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Altia&lt;/li&gt;
-&lt;li&gt;Fecha: 2020-12&lt;/li&gt;
-&lt;li&gt;Duración: 25h&lt;/li&gt;
-&lt;li&gt;Modalidad: telepresencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
-&lt;p&gt;SESIÓN 1. INTRODUCCIÓN&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Presentación del curso&lt;/li&gt;
-&lt;li&gt;Contexto y origen histórico&lt;/li&gt;
-&lt;li&gt;Virtualización vs. Paravirtualización. Origen y base tecnológica de los contenedores&lt;/li&gt;
-&lt;li&gt;Qué es docker. Conceptos clave. Ciclos de vida&lt;/li&gt;
-&lt;li&gt;Instalación y comandos básicos&lt;/li&gt;
-&lt;li&gt;Registry y dockerhub&lt;/li&gt;
-&lt;li&gt;Dockerfiles y proceso de construcción-publicación de imágenes&lt;/li&gt;
-&lt;li&gt;Redes de contenedores y docker-compose (y buenas prácticas)&lt;/li&gt;
-&lt;li&gt;Introducción a la orquestación: docker-swarm y kubernetes&lt;/li&gt;
-&lt;li&gt;Conclusiones. Para qué puede servirnos&lt;/li&gt;
-&lt;li&gt;Taller práctico solo con docker: frontal web + servidor apps + bd&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;SESIÓN 2. CONCEPTOS BÁSICOS K8S&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Qué es y para qué sirve&lt;/li&gt;
-&lt;li&gt;Arquitectura y componentes&lt;/li&gt;
-&lt;li&gt;Cómo funciona internamente&lt;/li&gt;
-&lt;li&gt;Aplicabilidades: para qué es apropiado y para qué no&lt;/li&gt;
-&lt;li&gt;Tipos de objetos K8S y sus relaciones: pods, deployments, statefulset, service, ingress, namespaces, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Creación de descriptores yaml básicos: specs, probes, semejanza con docker-compose,&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Etiquetas, selectores y anotaciones&lt;/li&gt;
-&lt;li&gt;Instalación para pruebas (minikube / microk8s)&lt;/li&gt;
-&lt;li&gt;Conexión a un cluster K8S y comandos básicos en cli: get, apply, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Réplicas y escalado&lt;/li&gt;
-&lt;li&gt;Flujo previsto para versionado y actualizaciones sin pérdida de servicio&lt;/li&gt;
-&lt;li&gt;Taller práctico: Desplegando y jugando con una app sencilla (pe. apache/nginx)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;SESIÓN 3. DESCRIPTORES YAML CON MÁS DETALLE&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Configuración: ConfigMaps y Secrets. Ficheros, envs, certificados&lt;/li&gt;
-&lt;li&gt;Despliegues: Deployments y StatefulSets. Probes, requests y limits, afinidades y tolerancias &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Persistencia: PersistenVolumes, Claims, StorageClass. Tipos de provisionadores.&lt;/li&gt;
-&lt;li&gt;Redes: Services e Ingress-nginx&lt;/li&gt;
-&lt;li&gt;Otros: CronJobs&lt;/li&gt;
-&lt;li&gt;Mejores prácticas y errores comunes a evitar&lt;/li&gt;
-&lt;li&gt;Helm charts&lt;/li&gt;
-&lt;li&gt;Herramientas de trabajo más cómodo: vscode+icepanel&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Taller práctico: Instalar un helm chart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;SESIÓN 4. Instalación, configuración y administración básica&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Taller práctico: Instalación y configuración de un cluster real incl dashboard, ingress, helm&lt;/li&gt;
-&lt;li&gt;Monitorización: prometheus / ELK&lt;/li&gt;
-&lt;li&gt;Lens&lt;/li&gt;
-&lt;li&gt;Certificados: cert-manager y letsencrypt&lt;/li&gt;
-&lt;li&gt;Registry privado seguro&lt;/li&gt;
-&lt;li&gt;Automatización del escalado&lt;/li&gt;
-&lt;li&gt;Integración continua: del git a K8S&lt;/li&gt;
-&lt;li&gt;Recomendaciones para backups&lt;/li&gt;
-&lt;li&gt;Fallos comunes. Troubleshooting.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;SESIÓN 5. Prácticas finales&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Taller práctico: Desde el dockerfile al helm chart para una app de ejemplo que tenga un poco de todo: config, almacenamiento, ingress https, un cron&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Implantación, soporte y mantenimiento plataforma IoT y SOA</title>
-      <link>http://localhost:1313/project/2020_wso2/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2020_wso2/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Implantación y posterior soporte-mantenimiento de una plataforma IoT y SOA&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en soporte-mantenimiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; empresa sector industrial&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Kubernetes, WSO2 Enterprise Integrator, WSO2 Identity Server, WSO2 Stream Processor, WSO2 API Manager, RabbitMQ, MongoDB, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; monitorización industrial&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Registro y declaración del IVA</title>
-      <link>http://localhost:1313/project/2020_vat/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2020_vat/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo de un sistema de gestión para las declaraciones de IVA a agencias tributarias europeas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en ejecución&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; gestoría especializada en IVA a nivel internacional&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Java, Spring boot, HTML5-CSS3, jHipster, Angular, Camunda, UIPath, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gestión de IVA&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DevOps de microservicios con Red Hat OpenShift</title>
-      <link>http://localhost:1313/publication/201906_cntg_devopsopenshift/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201906_cntg_devopsopenshift/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
-&lt;li&gt;Fecha: 2019-06&lt;/li&gt;
-&lt;li&gt;Duración: 4h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;temario&#34;&gt;Temario&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Introdución a Docker, Kubernetes y Openshift&lt;/li&gt;
-&lt;li&gt;Instalación&lt;/li&gt;
-&lt;li&gt;Integración DevOps con OpenShift (CI/CD)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lugo Smart</title>
-      <link>http://localhost:1313/project/2018_smlug/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2018_smlug/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Desarrollo de la iniciativa Lugo Smart City&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto (varios componentes)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; desarrollo e implantación de sistemas de información&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en mantenimiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; administración local&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Sistema de administración electrónica, incluyendo licitación electrónica&lt;/li&gt;
-&lt;li&gt;GIS&lt;/li&gt;
-&lt;li&gt;Nuevos servicios para la tarjeta ciudadana&lt;/li&gt;
-&lt;li&gt;Parking inteligente&lt;/li&gt;
-&lt;li&gt;Smart waste&lt;/li&gt;
-&lt;li&gt;Eficiencia energética alumbrado, edificios públicos y telemedida contadores de agua&lt;/li&gt;
-&lt;li&gt;Consultoría plataforma smart&lt;/li&gt;
-&lt;li&gt;Infraestructura de servidores y sistemas base&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Python, PHP, Drupal, GeoServer, PC/SC, OTEA,&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gestión de expedientes, Gobierno abierto, Smart city&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Servicio de asistencia técnica Business Intelligence</title>
-      <link>http://localhost:1313/project/2017_atbi/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2017_atbi/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Servicio de apoyo técnico en la construcción y mantenimiento de cuadros de mando, informes e indicadores&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Gerente de proyecto&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; asistencia técnica&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en mantenimiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; empresa sector industrial&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Airflow, Nifi, Clickhouse, Pentaho, PowerBI &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; Gambling&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Despliegue de aplicaciones con Docker</title>
-      <link>http://localhost:1313/publication/201704_cntg_docker/</link>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201704_cntg_docker/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
-&lt;li&gt;Fecha: 2017-04&lt;/li&gt;
-&lt;li&gt;Duración: 20h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sistemas corporativos</title>
-      <link>http://localhost:1313/project/2017_sistemas/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2017_sistemas/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Soporte-mantenimiento de varios sistemas corporativos&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mi rol en el proyecto:&lt;/strong&gt; Jefe de proyecto. DevOps.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de proyecto:&lt;/strong&gt; soporte e implantación de soluciones&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estado:&lt;/strong&gt; en mantenimiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cliente:&lt;/strong&gt; proyecto interno (Altia)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Componentes:&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Plataforma de orquestación de contenedores&lt;/li&gt;
-&lt;li&gt;Repositorio de artefactos&lt;/li&gt;
-&lt;li&gt;Integración continua&lt;/li&gt;
-&lt;li&gt;Análisis estático de código&lt;/li&gt;
-&lt;li&gt;Análisis de vulnerabilidades en dependencias&lt;/li&gt;
-&lt;li&gt;Registry de imágenes de contenedores&lt;/li&gt;
-&lt;li&gt;eLearning&lt;/li&gt;
-&lt;li&gt;Encuestas&lt;/li&gt;
-&lt;li&gt;Inventario&lt;/li&gt;
-&lt;li&gt;CRM&lt;/li&gt;
-&lt;li&gt;Analítica y ETLs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tecnologías:&lt;/strong&gt; Kubernetes, Sonatype Nexus, Jenkins, Sonarqube, Dependency-Track, Harbor, Moodle, LimeSurvey, SnipeIT, Metabase, Talend, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Entorno funcional:&lt;/strong&gt; consultoría tic y desarrollo&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contenedores. Introducción a Docker</title>
-      <link>http://localhost:1313/publication/201602_cntg_docker/</link>
-      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/201602_cntg_docker/</guid>
-      <description>&lt;h2 id=&#34;datos-del-curso&#34;&gt;Datos del curso&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li&gt;
-&lt;li&gt;Fecha: 2016-02&lt;/li&gt;
-&lt;li&gt;Duración: 4h&lt;/li&gt;
-&lt;li&gt;Modalidad: presencial&lt;/li&gt;
-&lt;li&gt;Diploma acreditativo: disponible&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contenedores | Diego Souto</title><link>https://diegosouto.duckdns.org/tag/contenedores/</link><atom:link href="https://diegosouto.duckdns.org/tag/contenedores/index.xml" rel="self" type="application/rss+xml"/><description>Contenedores</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://diegosouto.duckdns.org/media/icon_hudc39437d1c18a180f1fd3a241a77f63a_14142_512x512_fill_lanczos_center_3.png</url><title>Contenedores</title><link>https://diegosouto.duckdns.org/tag/contenedores/</link></image><item><title>MyAssistant. Chat IA y agentes inteligentes</title><link>https://diegosouto.duckdns.org/project/2024_myassistant/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2024_myassistant/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.&lt;/li>
+&lt;li>&lt;strong>Descripción:&lt;/strong> Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en producción, pero todavía en fuerte evolución&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> interno&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de conocimiento corporativo. Service Desk. Preventa.&lt;/li>
+&lt;/ul></description></item><item><title>Laboratorio casero de Kubernetes</title><link>https://diegosouto.duckdns.org/post/k8shomelab/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/post/k8shomelab/</guid><description>&lt;h2 id="características">Características&lt;/h2>
+&lt;ul>
+&lt;li>Resiliencia. Aguanta caídas de nodos o aplicaciones, reiniciándose o moviendo cargas a otros nodos&lt;/li>
+&lt;li>Escalabilidad. Tanto física (añadir más nodos) como lógica (añadir más réplicas, productos, &amp;hellip;)&lt;/li>
+&lt;li>Observabilidad. Métricas hardware, infra y software.&lt;/li>
+&lt;/ul>
+&lt;h2 id="hardware">Hardware&lt;/h2>
+&lt;p>En mi caso:&lt;/p>
+&lt;ul>
+&lt;li>1 raspberry 4GB&lt;/li>
+&lt;li>2 raspberry 8GB&lt;/li>
+&lt;li>1 rock64 4GB&lt;/li>
+&lt;li>1 intel celeron 5000&lt;/li>
+&lt;li>1 intel celeron n100&lt;/li>
+&lt;li>2 SSDs&lt;/li>
+&lt;li>Switch 8 puertos, cables, envolventes, &amp;hellip;&lt;/li>
+&lt;li>1 SAI&lt;/li>
+&lt;/ul>
+&lt;h2 id="software">Software&lt;/h2>
+&lt;p>En mi caso, entre otras cosas:&lt;/p>
+&lt;ul>
+&lt;li>Web personal&lt;/li>
+&lt;li>Servidor de música&lt;/li>
+&lt;li>Servidor de fotos&lt;/li>
+&lt;li>Domótica de casa&lt;/li>
+&lt;li>Videovigilancia&lt;/li>
+&lt;li>Ingesta de datos (scrappers, rpa, conectores servicios web externos, &amp;hellip;)&lt;/li>
+&lt;li>Mensajería asíncrona (bus de eventos usado por ingesta, domótica, alertas, monitorización)&lt;/li>
+&lt;li>Alertas (mail, telegram, &amp;hellip;)&lt;/li>
+&lt;li>Infra software: registry, monitorización, dns filtrado, balanceador, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="principales-retos">Principales retos&lt;/h2>
+&lt;ul>
+&lt;li>Multi-arquitectura. No todo está preparado para esto. Se han requerido varias adaptaciones para acomodar nodos intel y arm en el mismo cluster.&lt;/li>
+&lt;/ul>
+&lt;h2 id="principales-limitaciones">Principales limitaciones&lt;/h2>
+&lt;ul>
+&lt;li>Hay puntos únicos de fallo; por ejemplo, un nodo tiene un dongle USB Zwave. Eso limita las poisibilidades de redespliegue en caliente en otro nodo.&lt;/li>
+&lt;li>Potencia. No se le pueden pedir milagros a las raspberries, ni en CPU ni en memoria.&lt;/li>
+&lt;li>Almacenamiento distribuido. Algún repositorio es masivo y no puede ser distribuido (con los recursos hardware que tengo).&lt;/li>
+&lt;/ul></description></item><item><title>Kubernetes. Automatización de la implementación, el escalado y la administración de aplicaciones en contenedores</title><link>https://diegosouto.duckdns.org/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</link><pubDate>Mon, 30 Nov 2020 08:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/talk/kubernetes.-automatizacion-de-la-implementacion-el-escalado-y-la-administracion-de-aplicaciones-en-contenedores/</guid><description/></item><item><title>Kubernetes. Automatización, escalado y administración de aplicaciones en contenedores</title><link>https://diegosouto.duckdns.org/publication/202012_altia_k8s/</link><pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/202012_altia_k8s/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Altia&lt;/li>
+&lt;li>Fecha: 2020-12&lt;/li>
+&lt;li>Duración: 25h&lt;/li>
+&lt;li>Modalidad: telepresencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;p>SESIÓN 1. INTRODUCCIÓN&lt;/p>
+&lt;ul>
+&lt;li>Presentación del curso&lt;/li>
+&lt;li>Contexto y origen histórico&lt;/li>
+&lt;li>Virtualización vs. Paravirtualización. Origen y base tecnológica de los contenedores&lt;/li>
+&lt;li>Qué es docker. Conceptos clave. Ciclos de vida&lt;/li>
+&lt;li>Instalación y comandos básicos&lt;/li>
+&lt;li>Registry y dockerhub&lt;/li>
+&lt;li>Dockerfiles y proceso de construcción-publicación de imágenes&lt;/li>
+&lt;li>Redes de contenedores y docker-compose (y buenas prácticas)&lt;/li>
+&lt;li>Introducción a la orquestación: docker-swarm y kubernetes&lt;/li>
+&lt;li>Conclusiones. Para qué puede servirnos&lt;/li>
+&lt;li>Taller práctico solo con docker: frontal web + servidor apps + bd&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 2. CONCEPTOS BÁSICOS K8S&lt;/p>
+&lt;ul>
+&lt;li>Qué es y para qué sirve&lt;/li>
+&lt;li>Arquitectura y componentes&lt;/li>
+&lt;li>Cómo funciona internamente&lt;/li>
+&lt;li>Aplicabilidades: para qué es apropiado y para qué no&lt;/li>
+&lt;li>Tipos de objetos K8S y sus relaciones: pods, deployments, statefulset, service, ingress, namespaces, &amp;hellip;&lt;/li>
+&lt;li>Creación de descriptores yaml básicos: specs, probes, semejanza con docker-compose,&amp;hellip;&lt;/li>
+&lt;li>Etiquetas, selectores y anotaciones&lt;/li>
+&lt;li>Instalación para pruebas (minikube / microk8s)&lt;/li>
+&lt;li>Conexión a un cluster K8S y comandos básicos en cli: get, apply, &amp;hellip;&lt;/li>
+&lt;li>Réplicas y escalado&lt;/li>
+&lt;li>Flujo previsto para versionado y actualizaciones sin pérdida de servicio&lt;/li>
+&lt;li>Taller práctico: Desplegando y jugando con una app sencilla (pe. apache/nginx)&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 3. DESCRIPTORES YAML CON MÁS DETALLE&lt;/p>
+&lt;ul>
+&lt;li>Configuración: ConfigMaps y Secrets. Ficheros, envs, certificados&lt;/li>
+&lt;li>Despliegues: Deployments y StatefulSets. Probes, requests y limits, afinidades y tolerancias &amp;hellip;&lt;/li>
+&lt;li>Persistencia: PersistenVolumes, Claims, StorageClass. Tipos de provisionadores.&lt;/li>
+&lt;li>Redes: Services e Ingress-nginx&lt;/li>
+&lt;li>Otros: CronJobs&lt;/li>
+&lt;li>Mejores prácticas y errores comunes a evitar&lt;/li>
+&lt;li>Helm charts&lt;/li>
+&lt;li>Herramientas de trabajo más cómodo: vscode+icepanel&amp;hellip;&lt;/li>
+&lt;li>Taller práctico: Instalar un helm chart&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 4. Instalación, configuración y administración básica&lt;/p>
+&lt;ul>
+&lt;li>Taller práctico: Instalación y configuración de un cluster real incl dashboard, ingress, helm&lt;/li>
+&lt;li>Monitorización: prometheus / ELK&lt;/li>
+&lt;li>Lens&lt;/li>
+&lt;li>Certificados: cert-manager y letsencrypt&lt;/li>
+&lt;li>Registry privado seguro&lt;/li>
+&lt;li>Automatización del escalado&lt;/li>
+&lt;li>Integración continua: del git a K8S&lt;/li>
+&lt;li>Recomendaciones para backups&lt;/li>
+&lt;li>Fallos comunes. Troubleshooting.&lt;/li>
+&lt;/ul>
+&lt;p>SESIÓN 5. Prácticas finales&lt;/p>
+&lt;ul>
+&lt;li>Taller práctico: Desde el dockerfile al helm chart para una app de ejemplo que tenga un poco de todo: config, almacenamiento, ingress https, un cron&lt;/li>
+&lt;/ul></description></item><item><title>Implantación, soporte y mantenimiento plataforma IoT y SOA</title><link>https://diegosouto.duckdns.org/project/2020_wso2/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_wso2/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Implantación y posterior soporte-mantenimiento de una plataforma IoT y SOA&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> implantación de sistemas; soporte-mantenimiento de sistemas&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en soporte-mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, WSO2 Enterprise Integrator, WSO2 Identity Server, WSO2 Stream Processor, WSO2 API Manager, RabbitMQ, MongoDB, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> monitorización industrial&lt;/li>
+&lt;/ul></description></item><item><title>Registro y declaración del IVA</title><link>https://diegosouto.duckdns.org/project/2020_vat/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2020_vat/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo de un sistema de gestión para las declaraciones de IVA a agencias tributarias europeas&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en ejecución&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> gestoría especializada en IVA a nivel internacional&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Java, Spring boot, HTML5-CSS3, jHipster, Angular, Camunda, UIPath, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de IVA&lt;/li>
+&lt;/ul></description></item><item><title>DevOps de microservicios con Red Hat OpenShift</title><link>https://diegosouto.duckdns.org/publication/201906_cntg_devopsopenshift/</link><pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201906_cntg_devopsopenshift/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2019-06&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul>
+&lt;h2 id="temario">Temario&lt;/h2>
+&lt;ul>
+&lt;li>Introdución a Docker, Kubernetes y Openshift&lt;/li>
+&lt;li>Instalación&lt;/li>
+&lt;li>Integración DevOps con OpenShift (CI/CD)&lt;/li>
+&lt;/ul></description></item><item><title>Lugo Smart</title><link>https://diegosouto.duckdns.org/project/2018_smlug/</link><pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2018_smlug/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Desarrollo de la iniciativa Lugo Smart City&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto (varios componentes)&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> desarrollo e implantación de sistemas de información&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> administración local&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Sistema de administración electrónica, incluyendo licitación electrónica&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Nuevos servicios para la tarjeta ciudadana&lt;/li>
+&lt;li>Parking inteligente&lt;/li>
+&lt;li>Smart waste&lt;/li>
+&lt;li>Eficiencia energética alumbrado, edificios públicos y telemedida contadores de agua&lt;/li>
+&lt;li>Consultoría plataforma smart&lt;/li>
+&lt;li>Infraestructura de servidores y sistemas base&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Python, PHP, Drupal, GeoServer, PC/SC, OTEA,&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gestión de expedientes, Gobierno abierto, Smart city&lt;/li>
+&lt;/ul></description></item><item><title>Servicio de asistencia técnica Business Intelligence</title><link>https://diegosouto.duckdns.org/project/2017_atbi/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_atbi/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Servicio de apoyo técnico en la construcción y mantenimiento de cuadros de mando, informes e indicadores&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Gerente de proyecto&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> asistencia técnica&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> empresa sector industrial&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Airflow, Nifi, Clickhouse, Pentaho, PowerBI &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> Gambling&lt;/li>
+&lt;/ul></description></item><item><title>Despliegue de aplicaciones con Docker</title><link>https://diegosouto.duckdns.org/publication/201704_cntg_docker/</link><pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201704_cntg_docker/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2017-04&lt;/li>
+&lt;li>Duración: 20h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item><item><title>Sistemas corporativos</title><link>https://diegosouto.duckdns.org/project/2017_sistemas/</link><pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/project/2017_sistemas/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Objetivo:&lt;/strong> Soporte-mantenimiento de varios sistemas corporativos&lt;/li>
+&lt;li>&lt;strong>Mi rol en el proyecto:&lt;/strong> Jefe de proyecto. DevOps.&lt;/li>
+&lt;li>&lt;strong>Tipo de proyecto:&lt;/strong> soporte e implantación de soluciones&lt;/li>
+&lt;li>&lt;strong>Estado:&lt;/strong> en mantenimiento&lt;/li>
+&lt;li>&lt;strong>Cliente:&lt;/strong> proyecto interno (Altia)&lt;/li>
+&lt;li>&lt;strong>Componentes:&lt;/strong>
+&lt;ul>
+&lt;li>Plataforma de orquestación de contenedores&lt;/li>
+&lt;li>Repositorio de artefactos&lt;/li>
+&lt;li>Integración continua&lt;/li>
+&lt;li>Análisis estático de código&lt;/li>
+&lt;li>Análisis de vulnerabilidades en dependencias&lt;/li>
+&lt;li>Registry de imágenes de contenedores&lt;/li>
+&lt;li>eLearning&lt;/li>
+&lt;li>Encuestas&lt;/li>
+&lt;li>Inventario&lt;/li>
+&lt;li>CRM&lt;/li>
+&lt;li>Analítica y ETLs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tecnologías:&lt;/strong> Kubernetes, Sonatype Nexus, Jenkins, Sonarqube, Dependency-Track, Harbor, Moodle, LimeSurvey, SnipeIT, Metabase, Talend, &amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Entorno funcional:&lt;/strong> consultoría tic y desarrollo&lt;/li>
+&lt;/ul></description></item><item><title>Contenedores. Introducción a Docker</title><link>https://diegosouto.duckdns.org/publication/201602_cntg_docker/</link><pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate><guid>https://diegosouto.duckdns.org/publication/201602_cntg_docker/</guid><description>&lt;h2 id="datos-del-curso">Datos del curso&lt;/h2>
+&lt;ul>
+&lt;li>Organismo: Centro de Novas Tecnoloxías de Galicia (CNTG)&lt;/li>
+&lt;li>Fecha: 2016-02&lt;/li>
+&lt;li>Duración: 4h&lt;/li>
+&lt;li>Modalidad: presencial&lt;/li>
+&lt;li>Diploma acreditativo: disponible&lt;/li>
+&lt;/ul></description></item></channel></rss>
