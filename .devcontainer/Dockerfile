@@ -1,12 +1,19 @@
-FROM mcr.microsoft.com/devcontainers/go:1-1.21-bullseye
+FROM mcr.microsoft.com/devcontainers/go:1-1.22-bookworm
 
-# Ojo a las versiones
-RUN wget https://github.com/gohugoio/hugo/releases/download/v0.123.3/hugo_extended_0.123.3_linux-amd64.deb && \
-    dpkg -i hugo_extended_0.123.3_linux-amd64.deb && \
-    wget https://nodejs.org/dist/v20.9.0/node-v20.9.0-linux-x64.tar.xz && \
-    mkdir -p /usr/local/lib/nodejs && \
-    tar -xJvf node-v20.9.0-linux-x64.tar.xz -C /usr/local/lib/nodejs && \
-    ln -s /usr/local/lib/nodejs/node-v20.9.0-linux-x64/bin/node /usr/local/bin/ && \
-    rm -f *.deb && rm -f *.tar.xz
+ARG HUGO_VERSION=0.162.0
+
+# 1. Eliminamos el repositorio de Yarn con la clave GPG obsoleta
+# 2. Instalamos Node.js y Hugo v0.162.0
+RUN rm -f /etc/apt/sources.list.d/yarn.list && \
+    apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates \
+    curl \
+    git \
+    && curl -sL https://deb.nodesource.com/setup_22.x | bash - \
+    && apt-get install -y nodejs \
+    && curl -sLO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.deb" \
+    && dpkg -i "hugo_${HUGO_VERSION}_linux-amd64.deb" \
+    && rm "hugo_${HUGO_VERSION}_linux-amd64.deb" \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 EXPOSE 1313

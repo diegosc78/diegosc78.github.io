@@ -33,28 +33,12 @@ tags:
 
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
+- name: code
   url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
+- name: video
   url: https://youtube.com
-- type: custom
-  label: Custom Link
+- name: custom
   url: http://example.org
 
 # Featured image
