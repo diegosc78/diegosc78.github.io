@@ -10,7 +10,7 @@ image:
   caption: ""
   focal_point: Smart
 links:
-  - url: "https://www.altia.es/"
+  - url: "https://altiacompany.com/"
     name: "Altia"
 url_code: ""
 url_pdf: ""

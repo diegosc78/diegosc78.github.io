@@ -36,7 +36,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - company: Altia
-          company_url: "https://www.altia.es/"
+          company_url: "https://altiacompany.com/"
           company_logo: org-altia
           date_start: "2004-07-01"
           date_end: ""

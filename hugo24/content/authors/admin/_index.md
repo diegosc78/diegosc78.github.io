@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director de Estrategia Tecnológica y Partners. Gerente de proyectos
+role: Responsable de Estrategia Tecnológica y Partners. Gerente de proyectos
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Altia
-    url: https://www.altia.es/
+    url: https://altiacompany.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Director de Estrategia Tecnológica y Partners en Altia, con más de 20 años de experiencia en gestión de proyectos, transformación digital y adopción de nuevas tecnologías. Lidero iniciativas de IA generativa, articulación con partners y mejora continua desde una visión pragmática y orientada al cliente.
+bio: Responsable de Estrategia Tecnológica y Partners en Altia, con más de 20 años de experiencia en gestión de proyectos, transformación digital y adopción de nuevas tecnologías. Lidero iniciativas de IA generativa, articulación con partners y mejora continua desde una visión pragmática y orientada al cliente.
 
 # Interests to show in About widget
 interests:

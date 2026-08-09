@@ -11,7 +11,7 @@ image:
   caption: ""
   focal_point: ""
 links: 
-- url: "https://www.altia.es"
+- url: "https://altiacompany.com"
   name: Sistemas corporativos Altia
 url_code: ""
 url_pdf: ""
