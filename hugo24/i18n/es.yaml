@@ -262,4 +262,4 @@
 # Published with
 
 - id: published_with
-  translation: Publicado con {wowchemy} — constructor de webs libre y {repo_link}open source{/repo_link}.
+  translation: Publicado con {wowchemy} {hugoblox} — constructor de webs libre y {repo_link}open source{/repo_link}.

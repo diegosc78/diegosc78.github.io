@@ -12,6 +12,7 @@ tags:
 - Observabilidad
 - Contenedores
 - Kubernetes
+- GPUs
 date: "2024-09-01T00:00:00Z"
 external_link: "https://myassistant.altia.es"
 image:
@@ -25,10 +26,10 @@ url_video: ""
 slides: ""
 ---
 * **Objetivo:** Asistir a todos los empleados de la organización, mejorando su productividad y acceso a la información corporativa.
-* **Descripción:** Diseño, desarrollo y puesta en marcha de una app de chat con capacidades de agentes inteligentes para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.
-* **Mi rol en el proyecto:** Gerente de proyecto
+* **Descripción:** Diseño, desarrollo y puesta en marcha de una app de chat y sobre todo de un ecosistema de **agentes inteligentes** para uso interno en la compañía, integrándose con varios sistemas y bases de datos corporativas para mejorar la productividad y la accesibilidad de la información.
+* **Mi rol en el proyecto:** Gerente de proyecto. Product Owner.
 * **Tipo de proyecto:** desarrollo-mantenimiento
-* **Estado:** en producción, pero todavía en fuerte evolución
+* **Estado:** en producción, pero todavía en fuerte evolución. Más de 3000 usuarios.
 * **Cliente:** interno
-* **Tecnologías:** Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes
+* **Tecnologías:** Python, LLMs, Qdrant, Langgraph, FastAPI, Typesense, LiteLLM, Langfuse, Kubernetes, vLLM
 * **Entorno funcional:** Gestión de conocimiento corporativo. Service Desk. Preventa.

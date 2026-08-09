@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Gerente de proyectos. Responsable área estrategia tecnológica y partners
+role: Director de Estrategia Tecnológica y Partners. Gerente de proyectos
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.altia.es/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Continuamente aprendiendo cosas. Me encanta cacharrear en casa.
+bio: Director de Estrategia Tecnológica y Partners en Altia, con más de 20 años de experiencia en gestión de proyectos, transformación digital y adopción de nuevas tecnologías. Lidero iniciativas de IA generativa, articulación con partners y mejora continua desde una visión pragmática y orientada al cliente.
 
 # Interests to show in About widget
 interests:
@@ -177,9 +177,12 @@ email: 'diego.souto@gmail.com'
 highlight_name: true
 ---
 
-Soy un gerente de proyectos en Altia, que ha trabajado durante años en proyectos de todo tipo: consultoría, desarrollo de software, implantación de sistemas, soporte-mantenimiento,... que dedica una parte importante de su tiempo ahora al asesoramiento, preventa y elaboración de propuestas de valor y que participa activamente en procesos y órganos de mejora interna de la compañía, tanto de calidad como tecnológicas o de estrategia.
+Actualmente soy Responsable de Estrategia Tecnológica y partners dentro de la Dirección de Tecnología de Altia, estableciendo las líneas maestras para evolucionar y mantener a la vanguardia a más de 3000 profesionales.
+En particular desde hace 2 años lidero los dos principales programas de adopción interna de IA generativa dentro de la compañía.
 
-Actualmente también colaboro transversalmente dentro de la Unidad de Riesgos Globales del Grupo Altia y dentro de la Dirección de Tecnología de Altia como Responsable del Área de Estrategia Tecnológica y Partnerships. En el pasado también he colaborado en otros ámbitos transversales: herramientas corporativas, responsable de formación, mejora de procesos
+En el pasado también he colaborado en otros ámbitos transversales: herramientas corporativas, responsable de formación, mejora de procesos, unidad de riesgos globales y, desde luego, gestionando proyectos TIC.
+
+Como gerente de proyectos, he trabajado durante más de 15 en proyectos de todo tipo: consultoría, desarrollo de software, implantación de sistemas, soporte-mantenimiento,... dedicando una parte importante de su tiempo ahora al asesoramiento, preventa y elaboración de propuestas de valor y que participa activamente en procesos y órganos de mejora interna de la compañía, tanto de calidad como tecnológicas o de estrategia.
 
 Siempre aprendiendo cosas nuevas e intentando transmitir a mis equipos valores de profesionalidad, responsabilidad y pasión por las cosas bien hechas.
 {style="text-align: justify;"}

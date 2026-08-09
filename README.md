@@ -3,6 +3,7 @@
 ## OBJETIVOS
 
 Tener mi CV personal en web publicado en:
+
 - Github pages (diegosc78.github.io)
 - Mi homelab k8s (https://diegosc78.github.io)
 - Otros portales de CVs basados en formato JSON (pe. rxresu.me)
@@ -17,9 +18,9 @@ Tener mi CV personal en web publicado en:
   - En el editor visual web, opción generar PDF.
   - A veces no incluye bien la foto. Probar pequeños cambios en CV y reintentar.
 
-## CV HUGO
+## CV ESTÁTICO HUGO PARA HOMELAB y GITHUB PAGES
 
-**IMPORTANTE:** (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... olvidar actualizar. Este repo **se mantiene únicamente en el devcontainer** (versiones congeladas).
+**IMPORTANTE:** (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... demasiado complejo actualizar. Este repo **se mantiene únicamente en el devcontainer** (versiones congeladas).
 
 ### REFERENCIAS
 
@@ -144,19 +145,18 @@ Estado: En edición. Incompleto (2025-09-07)
   - Crear algún post al estilo unpocodejava; por ejemplo... CI/CD, DEMML, Kit multimedia casa
   - Actualizar laboratorio k8s (foto actual)
 - TRANSMITIENDO CONOCIMIENTO:
-  - Añadir sobre cursos gen ia : hay que conseguir que haya muchas refs a tag genIA
+  - Añadir sobre cursos gen ia
 - PROYECTOS:
-  - Añadir MyCopilot (programa de adopción de IA generativa en el ciclo de desarrollo de software)
-    - Rol Product Manager. Dar alguna cifra
+  - (APLICADO, PENDIENTE PROBAR) Añadir MyCopilot (programa de adopción de IA generativa en el ciclo de desarrollo de software)
 - FUNCIONES:
-  - Añadir referencia a MyAssistant y MyCopilot
+  - (APLICADO, PENDIENTE PROBAR) Añadir referencia a MyAssistant y MyCopilot
 - TRAYECTORIA:
-  - (APLICADO) ¿Podemos ponerla al revés (de actual a antigua)?
+  - (APLICADO) Invertir orden (de actual a antigua)
   - (APLICADO) Cambiar orden funciones en Altia (de actual a antiguo)
 - GENERAL:
-  - (APLICADO) Cambiar logos altia
+  - (APLICADO) Actualizar logos altia
   - (APLICADO, PENDIENTE PROBAR) Cambiar puesto
-  - Cambiar presentación
+  - (APLICADO, PENDIENTE PROBAR) Cambiar presentación
   - (APLICADO) Cambiar título de "Quien soy" a "Presentación"
 - I18N:
   - Meter todo también en inglés

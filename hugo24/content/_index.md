@@ -41,33 +41,30 @@ sections:
           date_start: "2004-07-01"
           date_end: ""
           description: |-
-            Como Responsable de Estrategia Tecnológica y Partnerships (2023-):
-            * Observatorio tecnológico y establecimiento de la estrategia tecnológica de la compañía
-            * Gestión de las relaciones con los partners
-            * Establecimiento de la arquitectura y directrices de desarrollo corporativa
-            * Liderazgo adopción IA internamente
-            * Liderazgo equipo interno de evaluación de productos y tecnologías innovadoras
+              Responsable de Estrategia Tecnológica y Partnerships (2023-):
+              * Definición de la estrategia tecnológica y del plan de acción interno para la adopción de tecnologías innovadoras.
+              * Gestión de alianzas y evaluación de partners tenológicos.
+              * Establecimiento de arquitecturas homologadas y directrices de desarrollo.
+              * Coordinación de la adopción interna de IA generativa y soluciones innovadoras.
+              * Liderazgo de la evaluación de productos y tecnologías emergentes.
 
-            Como miembro de la Unidad de Riesgos Globales (2021-):
-            * Identificación, evaluación y priorización de riesgos tecnológicos para todas las empresas del Grupo Altia
-            * Asesoramiento sobre líneas de acción y seguimiento de planes de acción
+              Miembro de la Unidad de Riesgos Globales (2021-):
+              * Análisis y priorización de riesgos tecnológicos en el grupo.
+              * Asesoramiento sobre planes de acción y seguimiento de mitigaciones.
 
-            Como Responsable de Formación (2012 a 2017):
-            * Coordinación de las actividades de formación a nivel global de la compañía
-            * Colaboración en la definición de las líneas estratégicas de formación
+              Responsable de Formación (2012-2017):
+              * Coordinación global de acciones de formación corporativa.
+              * Apoyo en la definición de líneas estratégicas y planes operativos.
 
-            Como Jefe de Proyecto y luego Gerente de Proyectos (desde 2010):
-            * Gestión proyectos de desarrollo y mantenimiento, fundamentalmente en tecnologías Java
-            * Gestión proyectos de integración de sistemas
-            * Gestión proyectos de consultoría
-            * Gestión proyectos de implantación de soluciones
-            * Liderazgo de proyectos de innovación
-            * Colaboración en la evolución del modelo de procesos corporativo
-            * Colaboración en la implantación y certificaciones de modelos de calidad
-            
-            Como Analista-Programador y Consultor (desde 2004 hasta 2012):
-            * Proyectos de desarrollo y mantenimiento de aplicaciones en tecnologías J2EE
-            * Consultoría estratégica de sistemas y de seguridad            
+              Jefe de Proyecto, Gerente de Proyectos, Product Manager (desde 2010):
+              * Dirección de proyectos de desarrollo, integración y consultoría.
+              * Gerencia de productos.
+              * Gestión de equipos y control de planificación, costes y calidad.
+              * Liderazgo de proyectos de innovación y mejora de procesos.
+
+              Analista-Programador y Consultor (2004-2012):
+              * Desarrollo de aplicaciones y sistemas en entornos J2EE.
+              * Consultoría estratégica de sistemas y de seguridad.              
           location: A Coruña
           title: Responsable estrategia tecnológica
         - company: GIG y Centro Gerontológico La Milagrosa
@@ -128,8 +125,8 @@ sections:
     id: functions
     content:
       # Mismas notas y campos utilizables que en la sección de "certificaciones"
-      title: 'Funciones'
-      subtitle: "Funciones desempeñadas profesionalmente"
+      title: 'Responsabilidades'
+      subtitle: "Áreas de impacto profesional"
       date_format: "2006"
       items:
         - title: Responsable de estrategia tecnológica y partners
@@ -138,29 +135,28 @@ sections:
           date_end: ""
           description:  |-
             Integrado dentro de la Dirección de Tecnología, responsable de:
-            * Observatorio tecnológico.
-            * Establecimiento de estrategia tecnológica e impulso de acciones.
+            * Observatorio tecnológico y detección de tendencias.
+            * Definición de la estrategia tecnológica y de líneas de acción.
             * Evaluación de productos y nuevas tecnologías.
-            * Definición y evolución de arquitecturas homologadas internamente.
+            * Diseño y evolución de arquitecturas homologadas internamente.
             * Visado técnico de propuestas y proyectos.
-            * Gestión de relaciones con los partners.
-            * Difusión interna.
+            * Gestión y consolidación de relaciones con partners.
+            * Difusión y apoyo interno a iniciativas estratégicas.
           url: ""
         - title: Jefe de proyecto - Gerente de proyectos - Preventas
           organization: "desde"
           date_start: "2010-06-01"
           date_end: ""
           description:  |-
-            * Asesoramiento y prescripción de soluciones.
-            * Elaboración de propuestas técnicas.
-            * Responsable e interlocutor principal ante los clientes en la ejecución.
-            * Planificación de proyectos.
-            * Liderazgo de equipos.
-            * Seguimiento y control.
-            * Aseguramiento de la calidad.
-            * Validación, aceptación, cierre y retrospectiva.
-            * Experiencia con diversas metodologías: predictivas (pmi) y ágiles (scrum).
-            * Experiencia en distintas tipologías: desarrollo-mantenimiento, consultoría, implantaciones, soporte, I+D+i.
+            * Asesoramiento técnico y comercial en preventa.
+            * Elaboración y validación de propuestas de valor.
+            * Interlocución principal con clientes durante la ejecución.
+            * Planificación, seguimiento y control de proyectos.
+            * Liderazgo de equipos multidisciplinares.
+            * Aseguramiento de la calidad y cierre de entregables.
+            * Validación, aceptación y retrospectiva de proyectos.
+            * Experiencia en metodologías predictivas (PMI) y ágiles (Scrum).
+            * Proyectos de desarrollo-mantenimiento, consultoría, implantación, soporte e I+D+i.
           url: ""
         - title: Miembro de la unidad de riesgos globales
           organization: "desde"
@@ -197,8 +193,8 @@ sections:
             * Soporte funcional y técnico.                        
           url: ""
         - title: Responsable de formación
-          date_start: "2017-01-01"
-          date_end: "2012-12-01"
+          date_start: "2012-01-01"
+          date_end: "2017-12-01"
           description:  |-
             * Definición de planes estratégicos anuales para la compañía.
             * Validación de planes operativos y coordinación acciones de las distintas oficinas.
