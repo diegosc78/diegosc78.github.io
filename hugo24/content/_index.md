@@ -1,14 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-10-01
+date: 2026-08-09
 type: landing
 
 sections:
   - block: about.biography
     id: about
     content:
-      title: Quién soy
+      title: Presentación
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -35,15 +35,73 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - company: Altia
+          company_url: "https://www.altia.es/"
+          company_logo: org-altia
+          date_start: "2004-07-01"
+          date_end: ""
+          description: |-
+            Como Responsable de Estrategia Tecnológica y Partnerships (2023-):
+            * Observatorio tecnológico y establecimiento de la estrategia tecnológica de la compañía
+            * Gestión de las relaciones con los partners
+            * Establecimiento de la arquitectura y directrices de desarrollo corporativa
+            * Liderazgo adopción IA internamente
+            * Liderazgo equipo interno de evaluación de productos y tecnologías innovadoras
+
+            Como miembro de la Unidad de Riesgos Globales (2021-):
+            * Identificación, evaluación y priorización de riesgos tecnológicos para todas las empresas del Grupo Altia
+            * Asesoramiento sobre líneas de acción y seguimiento de planes de acción
+
+            Como Responsable de Formación (2012 a 2017):
+            * Coordinación de las actividades de formación a nivel global de la compañía
+            * Colaboración en la definición de las líneas estratégicas de formación
+
+            Como Jefe de Proyecto y luego Gerente de Proyectos (desde 2010):
+            * Gestión proyectos de desarrollo y mantenimiento, fundamentalmente en tecnologías Java
+            * Gestión proyectos de integración de sistemas
+            * Gestión proyectos de consultoría
+            * Gestión proyectos de implantación de soluciones
+            * Liderazgo de proyectos de innovación
+            * Colaboración en la evolución del modelo de procesos corporativo
+            * Colaboración en la implantación y certificaciones de modelos de calidad
+            
+            Como Analista-Programador y Consultor (desde 2004 hasta 2012):
+            * Proyectos de desarrollo y mantenimiento de aplicaciones en tecnologías J2EE
+            * Consultoría estratégica de sistemas y de seguridad            
+          location: A Coruña
+          title: Responsable estrategia tecnológica
+        - company: GIG y Centro Gerontológico La Milagrosa
+          company_url: "http://gerontologia.udc.es/"
+          company_logo: org-milagrosa
+          date_start: "2003-06-15"
+          date_end: "2004-06-15"
+          description: |-
+            Jefe de proyecto:
+            * Liderazgo proyecto mantenimiento sistema de gestión del Plan Gallego de Inclusión Social
+            * Colaboración en proyectos de I+D+i
+            * Liderazgo proyecto de desarrollo de gestión expediente clínico gerontológico
+          location: A Coruña
+          title: Jefe de proyecto
         - company: Universidad de A Coruña
           company_url: "https://fic.udc.es/"
           company_logo: org-udc
-          date_start: "1996-09-15"
-          date_end: "1999-07-01"
+          date_start: "2001-12-15"
+          date_end: "2002-12-15"
           description: |-
-            Ingeniería técnica en informática de gestión
+            Becario en Centro de Cálculo y departamento TIC de la Universidad:
+            * Instalación y configuración de servidores
+            * Mantenimiento de webs
           location: A Coruña
-          title: Ingeniero técnico
+          title: Programador. Técnico de sistemas
+        - company: Universidad de A Coruña
+          company_url: "https://fic.udc.es/"
+          company_logo: org-udc
+          date_start: "2000-09-15"
+          date_end: "2003-07-01"
+          description: |-
+            Ingeniería informática
+          location: A Coruña
+          title: Ingeniero informático
         - company: Level Telecom SL
           company_url: ""
           date_start: "1999-09-15"
@@ -58,69 +116,12 @@ sections:
         - company: Universidad de A Coruña
           company_url: "https://fic.udc.es/"
           company_logo: org-udc
-          date_start: "2000-09-15"
-          date_end: "2003-07-01"
+          date_start: "1996-09-15"
+          date_end: "1999-07-01"
           description: |-
-            Ingeniería informática
+            Ingeniería técnica en informática de gestión
           location: A Coruña
-          title: Ingeniero informático
-        - company: Universidad de A Coruña
-          company_url: "https://fic.udc.es/"
-          company_logo: org-udc
-          date_start: "2001-12-15"
-          date_end: "2002-12-15"
-          description: |-
-            Becario en Centro de Cálculo y departamento TIC de la Universidad:
-            * Instalación y configuración de servidores
-            * Mantenimiento de webs
-          location: A Coruña
-          title: Programador. Técnico de sistemas
-        - company: GIG y Centro Gerontológico La Milagrosa
-          company_url: "http://gerontologia.udc.es/"
-          company_logo: org-milagrosa
-          date_start: "2003-06-15"
-          date_end: "2004-06-15"
-          description: |-
-            Jefe de proyecto:
-            * Liderazgo proyecto mantenimiento sistema de gestión del Plan Gallego de Inclusión Social
-            * Colaboración en proyectos de I+D+i
-            * Liderazgo proyecto de desarrollo de gestión expediente clínico gerontológico
-          location: A Coruña
-          title: Jefe de proyecto
-        - company: Altia
-          company_url: "https://www.altia.es/"
-          company_logo: org-altia
-          date_start: "2004-07-01"
-          date_end: ""
-          description: |-
-            Como Analista-Programador y Consultor (desde 2004 hasta 2012):
-            * Proyectos de desarrollo y mantenimiento de aplicaciones en tecnologías J2EE
-            * Consultoría estratégica de sistemas y de seguridad
-            
-            Como Jefe de Proyecto y luego Gerente de Proyectos (desde 2010):
-            * Gestión proyectos de desarrollo y mantenimiento, fundamentalmente en tecnologías Java
-            * Gestión proyectos de integración de sistemas
-            * Gestión proyectos de consultoría
-            * Gestión proyectos de implantación de soluciones
-            * Liderazgo de proyectos de innovación
-            * Colaboración en la evolución del modelo de procesos corporativo
-            * Colaboración en la implantación y certificaciones de modelos de calidad
-            
-            Como Responsable de Formación (2012 a 2017):
-            * Coordinación de las actividades de formación a nivel global de la compañía
-            * Colaboración en la definición de las líneas estratégicas de formación
-
-            Como miembro de la Unidad de Riesgos Globales (2021-):
-            * Identificación, evaluación y priorización de riesgos tecnológicos para todas las empresas del Grupo Altia
-            * Asesoramiento sobre líneas de acción y seguimiento de planes de acción
-
-            Como Responsable de Estrategia Tecnológica y Partnerships (2023-):
-            * Observatorio tecnológico y determinación de la estrategia tecnológica de la compañía
-            * Gestión de las relaciones con los partners
-            * Establecimiento de la arquitectura y directrices de desarrollo corporativa
-            * Liderazgo equipo interno de evaluación de productos
-          location: A Coruña
-          title: Gerente de proyectos
+          title: Ingeniero técnico
     design:
       columns: '2'
   - block: accomplishments
@@ -453,18 +454,18 @@ sections:
           icon_pack: fab
           name: LinkedIn
           link: 'https://www.linkedin.com/in/diegosouto'
-        - icon: telegram
-          icon_pack: fab
-          name: Telegram
-          link: 'https://telegram.me/@dsoutoc78'
-        - icon: skype
-          icon_pack: fab
-          name: Skype
-          link: 'skype:diego_sc_78?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom
-          link: 'https://us05web.zoom.us/j/8523168553?pwd=Bm1YLbzsZTBxZFsvnyiHmUzmHibb6G.1'
+        #- icon: telegram
+        #  icon_pack: fab
+        #  name: Telegram
+        #  link: 'https://telegram.me/@dsoutoc78'
+        #- icon: skype
+        #  icon_pack: fab
+        #  name: Skype
+        #  link: 'skype:diego_sc_78?call'
+        #- icon: video
+        #  icon_pack: fas
+        #  name: Zoom
+        #  link: 'https://us05web.zoom.us/j/8523168553?pwd=Bm1YLbzsZTBxZFsvnyiHmUzmHibb6G.1'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

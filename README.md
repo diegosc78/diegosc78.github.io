@@ -1,13 +1,11 @@
-# CV JSON
+# MI CURRICULUM WEB
 
-## JSONRESUME
+## OBJETIVOS
 
-Estado: En edición. Incompleto (2025-09-07)
-
-- Fuente [JSON](./jsonresume.json)
-- Fuente GIST en <https://gist.github.com/diegosc78/>
-- Visible en <https://registry.jsonresume.org/diegosc78>
-- Editor visual web en <https://registry.jsonresume.org/editor>
+Tener mi CV personal en web publicado en:
+- Github pages (diegosc78.github.io)
+- Mi homelab k8s (https://diegosc78.github.io)
+- Otros portales de CVs basados en formato JSON (pe. rxresu.me)
 
 ## RXRESU.ME
 
@@ -21,7 +19,7 @@ Estado: En edición. Incompleto (2025-09-07)
 
 ## CV HUGO
 
-**IMPORTANTE:** (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... olvidar actualizar. Esto **se mantiene únicamente en el devcontainer** (versiones congeladas).
+**IMPORTANTE:** (2025-09) Ya han cambiado hugo y wowchemy otra vez... es un coñazo... olvidar actualizar. Este repo **se mantiene únicamente en el devcontainer** (versiones congeladas).
 
 ### REFERENCIAS
 
@@ -122,17 +120,45 @@ cp -dpR hugo2310/i18n hugo24/
 
 - A partir de estas copias... lo demás hay que ir comparándolo con diff en el vscode para adaptarse. Previsiblemente las carpetas "config" y "content".
 
-## JEKILL AL-FOLIO (experimento)
+## JSONRESUME (experimiento incompleto y fallido)
+
+Estado: En edición. Incompleto (2025-09-07)
+
+- Fuente [JSON](./jsonresume.json)
+- Fuente GIST en <https://gist.github.com/diegosc78/>
+- Visible en <https://registry.jsonresume.org/diegosc78>
+- Editor visual web en <https://registry.jsonresume.org/editor>
+
+## JEKILL AL-FOLIO (experimento incompleto y fallido)
 
 - Partiendo de versión [0.14.6](https://github.com/alshedivat/al-folio/tree/v0.14.6)
 - Instrucciones en video en <https://github.com/alshedivat/al-folio/blob/v0.14.6/assets/video/tutorial_al_folio.mp4>
 
-
 ### TO DO
 
-- ARTÍCULOS: Crear algún post al estilo unpocodejava; por ejemplo...
-  - CI/CD
-  - DEMML
-  - Kit multimedia casa
+- CONTACTOS:
+  - (APLICADO) Eliminar contactos skype, zoom, telegram
+- TÉRMINOS Y CONDICIONES:
+  - (APLICADO) Cambiar refs web duckdns por github.io
+- ARTÍCULOS:
+  - Crear algún post al estilo unpocodejava; por ejemplo... CI/CD, DEMML, Kit multimedia casa
+  - Actualizar laboratorio k8s (foto actual)
+- TRANSMITIENDO CONOCIMIENTO:
+  - Añadir sobre cursos gen ia : hay que conseguir que haya muchas refs a tag genIA
+- PROYECTOS:
+  - Añadir MyCopilot (programa de adopción de IA generativa en el ciclo de desarrollo de software)
+    - Rol Product Manager. Dar alguna cifra
+- FUNCIONES:
+  - Añadir referencia a MyAssistant y MyCopilot
+- TRAYECTORIA:
+  - (APLICADO) ¿Podemos ponerla al revés (de actual a antigua)?
+  - (APLICADO) Cambiar orden funciones en Altia (de actual a antiguo)
+- GENERAL:
+  - (APLICADO) Cambiar logos altia
+  - (APLICADO, PENDIENTE PROBAR) Cambiar puesto
+  - Cambiar presentación
+  - (APLICADO) Cambiar título de "Quien soy" a "Presentación"
 - I18N:
   - Meter todo también en inglés
+- DOCKER:
+  - (APLICADO, PENDIENTE PROBAR) Pasar a último nginx

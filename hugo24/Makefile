@@ -1,7 +1,7 @@
 DESTDIR=public
 OPTIMIZE = find $(DESTDIR) -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>'
 DOCKER_IMAGE ?= ponte124/cvweb
-DOCKER_TAG ?= 25.12.27
+DOCKER_TAG ?= 26.8.9
 
 clean:
 	@echo "? Cleaning old build"

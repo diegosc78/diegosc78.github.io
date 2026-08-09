@@ -17,7 +17,7 @@ header:
 
 * Titular: Diego Souto
 * Correo electrónico: diego.souto@gmail.com
-* Sitio Web: https://diegosouto.duckdns.org
+* Sitio Web: https://diegosc78.github.io
 
 ### Términos y condiciones
 
